@@ -1,0 +1,27 @@
+{
+"menuItems":[
+{
+"id":1,
+"parentId":1,
+"name":"Soups",
+"description":"description",
+"price":"20.5",
+"hasChield":false,
+"chields":[]
+},
+{
+"id":2,
+"parentId":1,
+"name":"Main Course",
+"description":"description",
+"price":"20.5",
+"hasChield":true,
+"chields":[
+{"id":1,
+"name":"Sokolad",
+"prices":[15,20]
+}
+]
+}
+]   
+}
