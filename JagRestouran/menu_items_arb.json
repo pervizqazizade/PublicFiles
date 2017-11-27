@@ -1,0 +1,1068 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "parentId": 7,
+      "name": "قاىمة افطار تقليدي",
+      "description": " عجة , كريمة حامضة , نقانق , كريمة , \nجبنة , عسل , زبدة ,خيار بندورة, شاي , قهوة او \nعصير طبيعي",
+      "imageName": "i2_1",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 79,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 2,
+      "parentId": 7,
+      "name": ":عجة",
+      "description": "",
+      "imageName": "i2_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "كلاسيك",
+          "prices": [
+            12
+          ]
+        },
+        {
+          "id": 2,
+          "name": "مع بصل",
+          "prices": [
+            15
+          ]
+        },
+        {
+          "id": 3,
+          "name": "مع سجف",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 4,
+          "name": "مع جبنة",
+          "prices": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "parentId": 7,
+      "name": ":كريب",
+      "description": "",
+      "imageName": "i2_3",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "كريب مع لحمة",
+          "prices": [
+            20
+          ]
+        },
+        {
+          "id": 2,
+          "name": "كريب مع جبنة كوتيج",
+          "prices": [
+            15
+          ]
+        },
+        {
+          "id": 3,
+          "name": "كريب مع نوتيل",
+          "prices": [
+            17
+          ]
+        },
+        {
+          "id": 4,
+          "name": "كريب مع عسل",
+          "prices": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "parentId": 7,
+      "name": "سابزي كوكو",
+      "description": "عجة  مع الاوراق الضراء , تقدم مع لبن و جوز",
+      "imageName": "i2_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 5,
+      "parentId": 7,
+      "name": "بيضة - طماطم",
+      "description": "شكشوكة ازربيجانية , مقطعة ناعمة , بندورة\n طازجة مستوردة من ازربيجان  مقلية مع\n الزبدة و البيض",
+      "imageName": "i2_5",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 39,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 6,
+      "parentId": 1,
+      "name": "شوربة دجاج",
+      "description": "دجاج , جزر , بصل , نودلز ,  بطاطا بالزبدة",
+      "imageName": "i3_1",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 19,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 7,
+      "parentId": 1,
+      "name": "دوشبرة",
+      "description": "شوربة لحم العجل التقليدي تقدم مع نعنع جاف",
+      "imageName": "i3_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 32,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 8,
+      "parentId": 1,
+      "name": "دوفقا",
+      "description": "لبن مطبوخ مع الاعشاب الخضراء , توابل جبلية , بازيلا و \nارزيقدم عادة ساخن",
+      "imageName": "i3_3",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 24,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 9,
+      "parentId": 4,
+      "name": "سلطة المنقل",
+      "description": "باذنجان مشوي, فلفل و بندورة , مع زيت زيتون,و غصن \nالريحان , ثوم , وبصل احمر",
+      "imageName": "i4_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 22,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 10,
+      "parentId": 4,
+      "name": "سلطة الشوبان",
+      "description": "مقطع , بندورة , بصل احمر , ريحان احمر , كزبرة, \nتقدم مع عصير الليمن الطازج و زيت الزيتون",
+      "imageName": "i4_2",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 19,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 11,
+      "parentId": 4,
+      "name": "سلطة القيصر",
+      "description": "صدر دجاج , خس , بندورة , جبنة برميزان , \nخبز الكروتونز مع صلصة خاصة",
+      "imageName": "i4_3",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 39,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 12,
+      "parentId": 4,
+      "name": "سلطة الاوليفي",
+      "description": "صدر دجاج مسلوق, بطاطا , بيض , جزر مع بازيلا",
+      "imageName": "i4_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 25,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 13,
+      "parentId": 4,
+      "name": "سلطة ياشيل",
+      "description": "بندورة مجففة ,بصل,جرجير , ورق شجر مع زنجبيل \nو صلصة الليمون",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 28,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 14,
+      "parentId": 2,
+      "name": "تورشو جوفورما بلوف",
+      "description": "لحم عجل عضوي مستورد من اذربيجان ,مكسرات و فواكة \nمجففة مقلية بالزبدة والبصل , يقدم مع الارز",
+      "imageName": "i5_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 69,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 15,
+      "parentId": 2,
+      "name": "جوفورما  باكو ستايل",
+      "description": "لحم عجل , بصل احمر , زبدة , سماق مع الاعشاب",
+      "imageName": "i5_2",
+      "descLineCount":1,
+      "headLineCount": 1,
+      "price": 65,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 16,
+      "parentId": 2,
+      "name": "دجاج لافانجي",
+      "description": "صدر دجاج  محشو بالجوز و البصل ,يقدم مع الارز",
+      "imageName": "i5_3",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 56,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 17,
+      "parentId": 2,
+      "name": "ليق ضولما",
+      "description": "لحم عجل مقطع  مع الاعشاب و الارز يلف بورق \nالعنب و يقدم مع لبن",
+      "imageName": "i5_4",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 59,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 18,
+      "parentId": 2,
+      "name": "بيتي",
+      "description": "عجل مطهو بالجوز و البازيلا,و البصل",
+      "imageName": "i5_5",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 67,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 19,
+      "parentId": 3,
+      "name": "لولا كباب",
+      "description": "لحم عجل عضوي بصل , و اعشاب",
+      "imageName": "i6_1",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 75,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 20,
+      "parentId": 3,
+      "name": "بطاطا لولا كباب",
+      "description": "بطاطا مهروسة مع لحم عجل",
+      "imageName": "i6_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 39,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 21,
+      "parentId": 3,
+      "name": "تشيكن تيك كباب",
+      "description": "دجاج متبل بصلصة لطماطم و البهارات",
+      "imageName": "i6_3",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 59,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 22,
+      "parentId": 3,
+      "name": "عجل تيك كباب  لحم",
+      "description": "لحم العجل متيل بالبصل و عصير الليمون",
+      "imageName": "i6_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 79,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 23,
+      "parentId": 3,
+      "name": "لحم الضلع",
+      "description": "لجم الاضلاع مستورد من اذربيجان متبل بالفلفل \nالطازج و ملح البحر",
+      "imageName": "i6_5",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 89,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 24,
+      "parentId": 8,
+      "name": "طبق فواكة مشكل",
+      "description": "فواكة مستوردة  مقطعة على الطريقة الاذربيجانية",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 50,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 25,
+      "parentId": 8,
+      "name": "بقلاوة مع البوظة",
+      "description": "",
+      "imageName": "i7_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 39,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 26,
+      "parentId": 8,
+      "name": "مربى",
+      "description": "مربى بيتي خالي من الكيماويات و المواد الحافظة \n\n جوز\n كرز اصفر\n و فواكة",
+      "imageName": "i7_3",
+      "descLineCount": 5,
+      "headLineCount": 1,
+      "price": 25,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 27,
+      "parentId": 8,
+      "name": "بوظة",
+      "description": "شوكولاتة \n فانيلا \n فراولة",
+      "imageName": "i7_4",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 30,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 28,
+      "parentId": 9,
+      "name": "مشروبات",
+      "description": "كوكا كول \nكوكا  كولا لايت \nفانتا \nسبرايت",
+      "imageName": "image",
+      "descLineCount": 4,
+      "headLineCount": 1,
+      "price": 20,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 29,
+      "parentId": 9,
+      "name": "ماء معدنية",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "330 ml",
+          "prices": [
+            18
+          ]
+        },
+        {
+          "id": 1,
+          "name": "750 ml",
+          "prices": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "parentId": 9,
+      "name": "ماء غازية",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "330 ml",
+          "prices": [
+            18
+          ]
+        },
+        {
+          "id": 1,
+          "name": "750 ml",
+          "prices": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "parentId": 9,
+      "name": "Compote (1 litre)",
+      "description": "تقدم مع تشكيلة من الخضروات بدون اي مواد \nحافظة مستوردة من اذربيجان",
+      "imageName": "i8_4",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 45,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 32,
+      "parentId": 9,
+      "name": "بيتر ليمون",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 20,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 33,
+      "parentId": 10,
+      "name": "ارز",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 15,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 34,
+      "parentId": 10,
+      "name": "بطاطا مقلية",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 15,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 35,
+      "parentId": 10,
+      "name": "بطاطا مهروسة",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 20,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 36,
+      "parentId": 10,
+      "name": "خضار مشوي",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 25,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 37,
+      "parentId": 5,
+      "name": "دجاج فيليه مقلي",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 29,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 38,
+      "parentId": 5,
+      "name": "سيخ قطع دجاج",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 32,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 39,
+      "parentId": 6,
+      "name": "بلوف متنوع",
+      "description": "جيد ل 4 اشخاص, 6 اصناف من البلوف , ارز , مع \nيقطين , جوز , عنب مجفف , يقدم مع اللحم و الدجاج",
+      "imageName": "i11_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 297,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 40,
+      "parentId": 6,
+      "name": "شاه بلوف",
+      "description": "جيد لشخصين , دجاج مع زعفران و ارز",
+      "imageName": "i11_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 189,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 41,
+      "parentId": 6,
+      "name": "دوشمي بلوف",
+      "description": "جيد لشخصين , دجاج مع زعفران و ارز",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 119,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 42,
+      "parentId": 6,
+      "name": "كوزو بودو بلوف",
+      "description": "جيد ل 4 اشخاص : لحم متبل مع الثوم و \nالجزر , يلف ب خبز رقيق يقدم مع الخضروات \nحم عضوي مستورد خصيصا من اذربيجان",
+      "imageName": "image",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 365,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 43,
+      "parentId": 6,
+      "name": "سومويزو كوتوم بلوف",
+      "description": "جيد لشخصين , سمكة كاملة تنقع بلجوز و البصل , \nتقدم مع الارز",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 139,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 44,
+      "parentId": 4,
+      "name": "خضروات مشكلة",
+      "description": "بندورة عضوية , خيار , اربع انواع من العشب \nالاخضر العضوي مستورد من اذربيجان",
+      "imageName": "i12_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 45,
+      "parentId": 4,
+      "name": "طبق جبنة كبير",
+      "description": "جبنة برينزا , جبنة مدخنة , جبنة موتال",
+      "imageName": "i12_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 29,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 46,
+      "parentId": 4,
+      "name": "مخلالات",
+      "description": "مخلالات فاكهة و خضروات متنوعة مستوردة من اذربيجان",
+      "imageName": "i12_3",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 22,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 47,
+      "parentId": 4,
+      "name": "غورزا مقلي",
+      "description": "دمبلينغز مقلي محشو باللحم و البصل يقدم مع صلصة حامضة",
+      "imageName": "i12_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 32,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 48,
+      "parentId": 4,
+      "name": ":اوتاب",
+      "description": "",
+      "imageName": "i12_5",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 139,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "مع لحم",
+          "prices": [
+            19
+          ]
+        },
+        {
+          "id": 2,
+          "name": "مع اعشاب",
+          "prices": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "parentId": 6,
+      "name": "سيبيت",
+      "description": "",
+      "imageName": "i14_1",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 211,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 50,
+      "parentId": 6,
+      "name": "تاس كباب",
+      "description": "جيد ل 3 اشخاص , دجاج عضوي مطبوخ بالجوز و \nالبازيلا و السماق يقدم مع الارز",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 179,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 51,
+      "parentId": 8,
+      "name": "شاي",
+      "description": "شاي تقليدي يقدم مع المكسرات و الفواكة المجففة و \nالمربى البيتي و الحلويات الاذربيجانية",
+      "imageName": "i15_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 125,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 52,
+      "parentId": 8,
+      "name": "ابريق شاي",
+      "description": "شاي جاغ الخاص\nشاي عادي\nشاي مع الهيل\nشاي مع الزنجبيل\nKeklik Oty Chai\nشاي مع القلرنفل\nشاي مع الياسمين\nشاي مع  القرفة\nشاي مع النعنع المجفف\nشاي مع النعنع الطازج",
+      "imageName": "i15_2",
+      "descLineCount": 10,
+      "headLineCount": 1,
+      "price": 30,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 53,
+      "parentId": 8,
+      "name": "قهوة",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "قهوة تركية",
+          "prices": [
+            20,
+            15
+          ]
+        },
+        {
+          "id": 2,
+          "name": "اسبرسو",
+          "prices": [
+            15,
+            18
+          ]
+        },
+        {
+          "id": 3,
+          "name": "كابوتشينو",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 4,
+          "name": "كافيه لاتيه",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 5,
+          "name": "لاتيه مع الكراميل",
+          "prices": [
+            30
+          ]
+        },
+        {
+          "id": 6,
+          "name": "موكا",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 7,
+          "name": "شوكلاتة ساخنة",
+          "prices": [
+            22
+          ]
+        },
+        {
+          "id": 8,
+          "name": "موكا مثلجة",
+          "prices": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "parentId": 3,
+      "name": "ادانا لولا كباب",
+      "description": "يحضر مع لحم العجل بصل و الفلفل الحار",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 75,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 55,
+      "parentId": 3,
+      "name": "مشاوي مشكلة , جيد لي 4 اشخاص",
+      "description": "ادانا لولا كباب , لولا كباب , لحم الضلع , \nعجل تيك كباب لحم , تشيكن تيك كباب , بطاطا \nلولا كباب  لولا كباب",
+      "imageName": "i16_2",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 369,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 56,
+      "parentId": 3,
+      "name": "جاغ كباب",
+      "description": "كباب  تركي مصنوع من حم العجل المتبل يقدم مع الارز",
+      "imageName": "i16_3",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 65,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 57,
+      "parentId": 3,
+      "name": "كباب اسكندر",
+      "description": ". لحم عجل يقدم مع صلصة البندورة الحارة و اللبن",
+      "imageName": "i16_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 85,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 58,
+      "parentId": 3,
+      "name": "Chicken BBQ",
+      "description": "Organic Chicken import from Azerbaijan \nserved with Fries",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 69,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 59,
+      "parentId": 9,
+      "name": "جنجر",
+      "description": "ليمون\nدراق",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 20,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 60,
+      "parentId": 9,
+      "name": "تونيك",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 20,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 61,
+      "parentId": 9,
+      "name": "ريد بول",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 25,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 62,
+      "parentId": 9,
+      "name": "ليموناضة",
+      "description": "Tarragon\nPear\nLemon\nGrape",
+      "imageName": "image",
+      "descLineCount": 4,
+      "headLineCount": 1,
+      "price": 28,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 63,
+      "parentId": 9,
+      "name": "شاي مثلج بيتي",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 30,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 64,
+      "parentId": 9,
+      "name": "بافاريا",
+      "description": "",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 2,
+      "price": 30,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 65,
+      "parentId": 9,
+      "name": "Ayran",
+      "description": "Azerbaijani Laban. Prepared simple or with Dry Mint",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 22,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 66,
+      "parentId": 9,
+      "name": "Doghramaj",
+      "description": "لبن مع خيار , ريحان , بصل اخضر",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 19,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 67,
+      "parentId": 9,
+      "name": "Fresh Squeezed:",
+      "description": "",
+      "imageName": "i18_4",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 0,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "تفاح",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 2,
+          "name": "برتقال",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 3,
+          "name": "جزر",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 4,
+          "name": "اناناس",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 5,
+          "name": "ليمون",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 6,
+          "name": "ليمون مع نعنع",
+          "prices": [
+            25
+          ]
+        },
+        {
+          "id": 7,
+          "name": "رمان",
+          "prices": [
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "parentId": 9,
+      "name": "Mocktails:",
+      "description": "فيرجين ماري\n. عصير بندورة , عصير ليمون , فلفل اسود , \nصوص تاباسكو , ملح",
+      "imageName": "image",
+      "descLineCount": 3,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 69,
+      "parentId": 9,
+      "name": "موهيتو",
+      "description": "عصير النعناع المثلج مع الصودا و الليمون يقدم مع \nسيرب  الفواكة",
+      "imageName": "image",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 70,
+      "parentId": 9,
+      "name": "سندريلا",
+      "description": "عصير الاناناس , عصير البرتقال , عصير الليمون",
+      "imageName": "image",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 71,
+      "parentId": 9,
+      "name": "Milkshakes:",
+      "description": "فراولة\nموز\nفانيلا\nشوكلاتة\nاوريو",
+      "imageName": "i19_4",
+      "descLineCount": 5,
+      "headLineCount": 1,
+      "price": 39,
+      "hasChield": false,
+      "chields": []
+    }
+  ]
+}
