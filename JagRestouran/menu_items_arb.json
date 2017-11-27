@@ -1063,6 +1063,59 @@
       "price": 39,
       "hasChield": false,
       "chields": []
+    },
+    {
+      "id": 72,
+      "parentId": 2,
+      "name": "جورزا",
+      "description": "دمبلينغز باللحم مسلوق على الطريقة \nالاذربيجانية يقدم مع صلصة حامضة",
+      "imageName": "i13_1",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 73,
+      "parentId": 2,
+      "name": "دجاج تاباكا",
+      "description": "دجاج عضوي مقلي مع البطاطا",
+      "imageName": "i13_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 74,
+      "parentId": 2,
+      "name": "صاج",
+      "description": "",
+      "imageName": "i13_2",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "price": 35,
+      "hasChield": true,
+      "chields": [
+        {
+          "id": 1,
+          "name": "دجاج",
+          "prices": [159]
+        },
+        {
+          "id": 2,
+          "name": "لحم",
+          "prices": [175]
+        },
+        {
+          "id": 3,
+          "name": "مشكل",
+          "prices": [197]
+        }
+      ]
     }
+
   ]
 }
