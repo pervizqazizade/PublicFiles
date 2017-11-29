@@ -26,6 +26,9 @@
         {
           "id": 1,
           "name": "Classic",
+          "description":"Test description",
+          "descLineCount": 1,
+          "headLineCount": 1,
           "prices": [
             12
           ]
