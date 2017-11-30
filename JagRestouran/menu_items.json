@@ -18,6 +18,7 @@
       "name": "Omlettes:",
       "description": "",
       "imageName": "i2_2",
+      "imageCollection":["i2_1","i2_2"]
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 0,
