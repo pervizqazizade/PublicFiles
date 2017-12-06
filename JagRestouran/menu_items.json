@@ -19,7 +19,7 @@
       "name": "Omlettes:",
       "description": "",
       "imageName": "i2_2.png",
-      "imageCollection":["2.jpg","2_1.jpg","2_2.jpg","2_3.jpg","2.jpg","2_1.jpg","2_2.jpg","2_3.jpg","2.jpg","2_1.jpg","2_2.jpg","2_3.jpg"],
+      "imageCollection":["2.jpg","2_1.jpg","2_2.jpg","2_3.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 0,
