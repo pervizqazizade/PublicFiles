@@ -133,6 +133,7 @@
       "description": "Chicken meat, Carrot, Mix Capsicum, onion, \nnoodles, potato and butter",
       "imageName": "i3_1.png",
       "descLineCount": 2,
+      "imageCollection":["3_1.png"],
       "headLineCount": 1,
       "price": 19,
       "hasChield": false,
