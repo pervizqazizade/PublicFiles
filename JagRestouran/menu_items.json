@@ -611,6 +611,7 @@
       "imageName": "image.png",
       "descLineCount": 2,
       "headLineCount": 1,
+       "imageCollection":["41.jpg"],
       "price": 119,
       "hasChield": false,
       "chields": []
@@ -740,6 +741,7 @@
       "description": "Good For 3 person. Organic Chicken Cooked \nwith Chestnut, Peas, Onion, Sumakh Served \nwith Saffron Rice.",
       "imageName": "image.png",
       "descLineCount": 3,
+       "imageCollection":["50.jpg"],
       "headLineCount": 1,
       "price": 179,
       "hasChield": false,
