@@ -637,6 +637,7 @@
       "imageName": "image.png",
       "descLineCount": 4,
       "headLineCount": 1,
+      "imageCollection":["43.jpeg"],
       "price": 139,
       "hasChield": false,
       "chields": []
