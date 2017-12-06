@@ -899,9 +899,10 @@
       "parentId": 3,
       "name": "Chicken BBQ",
       "description": "Organic Chicken import from Azerbaijan \nserved with Fries",
-      "imageName": "image.png",
+      "imageName": "i13_2.png",
       "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["73.jpeg"],
       "price": 69,
       "hasChield": false,
       "chields": []
