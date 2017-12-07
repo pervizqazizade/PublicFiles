@@ -420,7 +420,7 @@
       "imageName": "image.png",
       "descLineCount": 4,
       "headLineCount": 1,
-      "price": 20,
+      "price": 12,
       "hasChield": false,
       "chields": []
     },
@@ -439,14 +439,14 @@
           "id": 1,
           "name": "330 ml",
           "prices": [
-            18
+            12
           ]
         },
         {
           "id": 1,
           "name": "750 ml",
           "prices": [
-            28
+            20
           ]
         }
       ]
@@ -466,14 +466,14 @@
           "id": 1,
           "name": "330 ml",
           "prices": [
-            18
+            15
           ]
         },
         {
           "id": 1,
           "name": "750 ml",
           "prices": [
-            28
+            25
           ]
         }
       ]
@@ -922,30 +922,8 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 60,
-      "parentId": 9,
-      "name": "Tonic",
-      "description": "",
-      "imageName": "image.png",
-      "descLineCount": 1,
-      "headLineCount": 1,
-      "price": 20,
-      "hasChield": false,
-      "chields": []
-    },
-    {
-      "id": 61,
-      "parentId": 9,
-      "name": "Red Bull",
-      "description": "",
-      "imageName": "image.png",
-      "descLineCount": 1,
-      "headLineCount": 1,
-      "price": 25,
-      "hasChield": false,
-      "chields": []
-    },
+     
+     
     {
       "id": 62,
       "parentId": 9,
@@ -970,18 +948,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 64,
-      "parentId": 9,
-      "name": "Bavaria \n(Non Alcoholic Drink)",
-      "description": "",
-      "imageName": "image.png",
-      "descLineCount": 1,
-      "headLineCount": 2,
-      "price": 30,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 65,
       "parentId": 9,
@@ -1069,18 +1036,7 @@
         }
       ]
     },
-    {
-      "id": 68,
-      "parentId": 9,
-      "name": "Mocktails:",
-      "description": "Virgin Mary\nTomato Juice, Lemon Juice, Black pepper, \nTabasco Sauce, Salt, Celery",
-      "imageName": "image.png",
-      "descLineCount": 3,
-      "headLineCount": 1,
-      "price": 35,
-      "hasChield": false,
-      "chields": []
-    },
+    
     {
       "id": 69,
       "parentId": 9,
