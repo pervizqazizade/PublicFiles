@@ -981,7 +981,7 @@
       "imageName": "image.png",
       "descLineCount": 1,
       "headLineCount": 1,
-      "imageCollection":["67.jpg"],
+      "imageCollection":["67_.jpg"],
       "price": 0,
       "hasChield": true,
       "chields": [
@@ -1043,7 +1043,7 @@
       "name": "Sober Mojito",
       "description": "Non Alcoholic drink with Mint Leaves, \nCrushed Ice, Lime and Soda, mixed \nwith Fruit Syrup",
       "imageName": "i18_4_.PNG",
-      "imageCollection":["68.jpg"],
+      "imageCollection":["69.jpg"],
       "descLineCount": 3,
       "headLineCount": 1,
       "price": 35,
