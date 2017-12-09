@@ -658,7 +658,7 @@
     {
       "id": 45,
       "parentId": 4,
-      "name": "Cheese Platter",
+      "name": "Cheese Platter(200g)",
       "description": "Cheese brinza, smoked cheese, cheese motal \nspecial from Azerbaijan",
       "imageName": "i12_2.png",
       "imageCollection":["45.jpg"],
@@ -755,7 +755,7 @@
       "description": "Traditional tea set with assorted nuts, dry \nfruits, murabba of your choice. Azeri pastries \nand a Somovar Of Tea",
       "imageName": "i15_1.png",
       "descLineCount": 3,
-      "imageCollection":["51.jpg"],
+      "imageCollection":["51.jpg","51_1.jpg"],
       "headLineCount": 1,
       "price": 125,
       "hasChield": false,

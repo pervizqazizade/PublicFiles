@@ -751,7 +751,7 @@
       "name": "شاي",
       "description": "شاي تقليدي يقدم مع المكسرات و الفواكة المجففة و \nالمربى البيتي و الحلويات الاذربيجانية",
       "imageName": "i15_1.png",
-      "imageCollection":["51.jpg"],
+      "imageCollection":["51.jpg","51_1.jpg"],
       "descLineCount": 2,
       "headLineCount": 1,
       "price": 125,
