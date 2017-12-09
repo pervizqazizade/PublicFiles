@@ -207,7 +207,7 @@
       "name": "سلطة الاوليفي",
       "description": "صدر دجاج مسلوق, بطاطا , بيض , جزر مع بازيلا",
       "imageName": "i4_4.png",
-      "imageCollection":["12.jpeg"],
+      "imageCollection":["12.jpeg","76_1.jpeg"],
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 25,
@@ -236,7 +236,7 @@
       "imageCollection":["14.jpg"],
       "descLineCount": 2,
       "headLineCount": 1,
-      "price": 69,
+      "price": 72,
       "hasChield": false,
       "chields": []
     },
@@ -323,8 +323,8 @@
       "parentId": 3,
       "name": "تشيكن تيك كباب",
       "description": "دجاج متبل بصلصة لطماطم و البهارات",
-      "imageName": "i6_3.png",
-      "imageCollection":["21.jpg"],
+      "imageName": "i6_3_.png",
+      "imageCollection":["21.jpg","21_1.jpeg"],
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 59,
@@ -873,8 +873,8 @@
       "parentId": 3,
       "name": "جاغ كباب",
       "description": "كباب  تركي مصنوع من حم العجل المتبل يقدم مع الارز",
-      "imageName": "i16_3.png",
-      "imageCollection":["56.jpg"],
+      "imageName": "i16_3_.png",
+      "imageCollection":["56.jpg","56_1.jpeg"],
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 65,
@@ -903,7 +903,7 @@
       "imageCollection":["73.jpeg"],
       "descLineCount": 2,
       "headLineCount": 1,
-      "price": 69,
+      "price": 72,
       "hasChield": false,
       "chields": []
     },
@@ -976,7 +976,7 @@
       "parentId": 9,
       "name": "Fresh Squeezed:",
       "description": "",
-      "imageName": "image.png",
+      "imageName": "i67_.png",
       "imageCollection":["67_.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
@@ -1095,7 +1095,7 @@
       "imageCollection":["73.jpeg"],
       "descLineCount": 1,
       "headLineCount": 1,
-      "price": 35,
+      "price": 72,
       "hasChield": false,
       "chields": []
     },
@@ -1143,21 +1143,21 @@
       "price": 75,
       "hasChield": false,
       "chields": []
-    },
+    }, 
     {
-      "id": 76,
-      "parentId": 4,
-      "name": "Stalicni",
+      "id": 77,
+      "parentId": 8,
+      "name": "Azəri Pakhlava(3pieces)",
       "description": "",
-      "imageName": "i76_1.png",
+      "imageName": "i77_1.png",
       "descLineCount": 1,
       "headLineCount": 1,
-      "imageCollection":["76_1.jpeg"],
-      "price": 0,
+      "imageCollection":["77_1.jpeg"],
+      "price": 30,
       "hasChield": false,
       "chields": []
     }
-    
+
 
   ]
 }
