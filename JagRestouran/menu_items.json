@@ -1116,17 +1116,17 @@
       "chields": [
         {
           "id": 1,
-          "name": "Chicken",
+          "name": "Chicken(500g)",
           "prices": [159]
         },
         {
           "id": 2,
-          "name": "Lamb",
+          "name": "Lamb(500g)",
           "prices": [175]
         },
         {
           "id": 3,
-          "name": "Mix",
+          "name": "Mix(750g)",
           "prices": [197]
         }
       ]
