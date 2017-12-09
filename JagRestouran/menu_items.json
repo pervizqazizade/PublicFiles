@@ -1146,6 +1146,19 @@
       "price": 75,
       "hasChield": false,
       "chields": []
+    },
+    {
+      "id": 76,
+      "parentId": 4,
+      "name": "Stalicni",
+      "description": "",
+      "imageName": "i76_1.png",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "imageCollection":["76_1.jpeg"],
+      "price": 0,
+      "hasChield": false,
+      "chields": []
     }
   ]
 }

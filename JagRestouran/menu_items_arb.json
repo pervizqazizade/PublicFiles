@@ -389,7 +389,7 @@
       "name": "مربى",
       "description": "مربى بيتي خالي من الكيماويات و المواد الحافظة \n\n جوز\n كرز اصفر\n و فواكة",
       "imageName": "i7_3.png",
-      "imageCollection":["26.jpg"],
+      "imageCollection":["26.jpg","26_1.jpeg"],
       "descLineCount": 5,
       "headLineCount": 1,
       "price": 25,
@@ -402,7 +402,7 @@
       "name": "بوظة",
       "description": "شوكولاتة \n فانيلا \n فراولة",
       "imageName": "i7_4.png",
-      "imageCollection":["7_4.png"],
+      "imageCollection":["7_4.png","27_1.jpeg"],
       "descLineCount": 3,
       "headLineCount": 1,
       "price": 30,
@@ -951,7 +951,8 @@
       "parentId": 9,
       "name": "Ayran",
       "description": "Azerbaijani Laban. Prepared simple or with Dry Mint",
-      "imageName": "image.png",
+      "imageName": "i65_1.png",
+      "imageCollection":["65_1.jpeg"],
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 22,
@@ -1126,7 +1127,37 @@
           "prices": [197]
         }
       ]
+    },
+
+
+
+    {
+      "id": 75,
+      "parentId": 8,
+      "name": "Assorted Nuts & Dried Fruits",
+      "description": "",
+      "imageName": "i75_1.png",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "imageCollection":["75_1.jpeg"],
+      "price": 75,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 76,
+      "parentId": 4,
+      "name": "Stalicni",
+      "description": "",
+      "imageName": "i76_1.png",
+      "descLineCount": 1,
+      "headLineCount": 1,
+      "imageCollection":["76_1.jpeg"],
+      "price": 0,
+      "hasChield": false,
+      "chields": []
     }
+    
 
   ]
 }
