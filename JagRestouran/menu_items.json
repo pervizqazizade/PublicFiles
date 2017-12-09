@@ -298,7 +298,7 @@
     {
       "id": 19,
       "parentId": 3,
-      "name": "Lamb Lula Kebab",
+      "name": "Lamb Lula Kebab(250g)",
       "description": "Prepared with Minced Lamb, Onions and Greens.\nOrganic Lamb Import from Azerbaijan. ",
       "imageName": "i6_1.png",
       "descLineCount": 2,
@@ -311,7 +311,7 @@
     {
       "id": 20,
       "parentId": 3,
-      "name": "Potato Lula Kebab",
+      "name": "Potato Lula Kebab(250g)",
       "description": "Mashed Potato Kebab with Lamb fat.",
       "imageName": "i6_2.png",
       "descLineCount": 1,
@@ -324,7 +324,7 @@
     {
       "id": 21,
       "parentId": 3,
-      "name": "Chicken Tike Kebab",
+      "name": "Chicken Tike Kebab(300g)",
       "description": "Chicken marinated with tomato sauce \nand spices",
       "imageName": "i6_3_.png",
       "imageCollection":["21.jpg","21_1.jpeg"],
@@ -337,7 +337,7 @@
     {
       "id": 22,
       "parentId": 3,
-      "name": "Lamb Tike Kebab",
+      "name": "Lamb Tike Kebab(250g)",
       "description": "Lamb marinated with onion and lemon juice. \nImportant from Azerbaijan",
       "imageName": "i6_4.png",
       "descLineCount": 2,
@@ -350,7 +350,7 @@
     {
       "id": 23,
       "parentId": 3,
-      "name": "Lamb Ribs Kebab",
+      "name": "Lamb Ribs Kebab(450g)",
       "description": "Only fresh pepper and sea salt. Lamb \nimportant from Azerbaijan",
       "imageName": "i6_5.png",
       "descLineCount": 2,
@@ -848,7 +848,7 @@
     {
       "id": 54,
       "parentId": 3,
-      "name": "Adana Lula Kebab",
+      "name": "Adana Lula Kebab(250g)",
       "description": "Prepared with minced lamb, onions and red \nchili, Organic lamb import from Azerbaijan",
       "imageName": "i16_1.png",
       "descLineCount": 2,
@@ -874,12 +874,12 @@
     {
       "id": 56,
       "parentId": 3,
-      "name": "JAG Kebab",
+      "name": "JAG Kebab(200g)",
       "description": "Traditional Turkish Erzurum kebab made of\nmarinated lamb with rice. Organic Lamb \nImport from Azerbaijan.",
       "imageName": "i16_3_.png",
       "descLineCount": 3,
       "headLineCount": 1,
-      "imageCollection":["56.jpg","56_1.jpeg"],
+      "imageCollection":["56.jpg","56_1.jpeg","56_2.jpeg"],
       "price": 65,
       "hasChield": false,
       "chields": []
@@ -887,7 +887,7 @@
     {
       "id": 57,
       "parentId": 3,
-      "name": "Iskender Kebab",
+      "name": "Iskender Kebab(300g)",
       "description": "Thinly Cut Grilled Lamb with Hot Tomato \nSauce Over Pieces ofBread and Served \nwith Plain Yogurt. Organic Lamb Import \nfrom Azerbaijan.",
       "imageName": "i16_4.png",
       "descLineCount": 4,
@@ -1106,9 +1106,9 @@
       "id": 74,
       "parentId": 2,
       "name": "Saj",
-      "description": "",
+      "description": "Cooked on Azeri style wok pan. \nServed with eggplant, potato, tomato, \npepper, onion, with your choice of.",
       "imageName":"i13_3.png",
-      "descLineCount": 1,
+      "descLineCount": 3,
       "headLineCount": 1,
       "imageCollection":["74_1.jpg","74_2.jpg"],
       "price": 35,
