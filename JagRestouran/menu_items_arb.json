@@ -295,7 +295,7 @@
     {
       "id": 19,
       "parentId": 3,
-      "name": "لولا كباب(250g)",
+      "name": "(250g)لولا كباب",
       "description": "لحم عجل عضوي بصل , و اعشاب",
       "imageName": "i6_1.png",
       "imageCollection":["6_1.png"],
@@ -308,7 +308,7 @@
     {
       "id": 20,
       "parentId": 3,
-      "name": "بطاطا لولا كباب",
+      "name": "(250g)بطاطا لولا كباب",
       "description": "بطاطا مهروسه مع دهن الخروف",
       "imageName": "i6_2.png",
       "imageCollection":["20.jpeg"],
@@ -321,7 +321,7 @@
     {
       "id": 21,
       "parentId": 3,
-      "name": "دجاج تكا كباب",
+      "name": "(300g)دجاج تكا كباب",
       "description": "دجاج متبل بصلصة الطماطم والبهارات الازربيجانيه",
       "imageName": "i6_3_.png",
       "imageCollection":["21.jpg","21_1.jpeg"],
@@ -334,7 +334,7 @@
     {
       "id": 22,
       "parentId": 3,
-      "name": "كباب تكا لحم",
+      "name": "(250g)كباب تكا لحم",
       "description": "لحم العجل متبل بالبصل وعصير الليمون",
       "imageName": "i6_4.png",
       "imageCollection":["22.jpeg"],
@@ -347,7 +347,7 @@
     {
       "id": 23,
       "parentId": 3,
-      "name": "لحم الريش",
+      "name": "(450g)لحم الريش",
       "description": "لحم الريش متبل بالفلفل الطازج وملح البحر",
       "imageName": "i6_5.png",
       "imageCollection":["23.jpeg"],
@@ -655,7 +655,7 @@
     {
       "id": 45,
       "parentId": 4,
-      "name": "طبق جبنة كبير",
+      "name": "(200g)طبق جبنة كبير",
       "description": " أعشاب مستورده من ازربيجان\nجبنة برينزا , جبنة مدخنة , جبنة موتال",
       "imageName": "i12_2.png",
       "imageCollection":["45.jpg"],
@@ -845,7 +845,7 @@
     {
       "id": 54,
       "parentId": 3,
-      "name": "ادانا لولا كباب",
+      "name": "(250g)ادانا لولا كباب",
       "description": " أعشاب مستورده من ازربيجان\nيحضر مع لحم العجل بصل و الفلفل الحار",
       "imageName": "i16_1.png",
       "imageCollection":["54.jpg"],
@@ -871,7 +871,7 @@
     {
       "id": 56,
       "parentId": 3,
-      "name": "جاغ كباب",
+      "name": "(200g)جاغ كباب",
       "description": "أعشاب مستورده من ازربيجان\nكباب  تركي مصنوع من حم العجل المتبل يقدم مع الارز",
       "imageName": "i16_3_.png",
       "imageCollection":["56.jpg","56_1.jpeg","56_2.jpeg"],
@@ -884,7 +884,7 @@
     {
       "id": 57,
       "parentId": 3,
-      "name": "كباب اسكندر",
+      "name": "(300g)كباب اسكندر",
       "description": " أعشاب مستورده من ازربيجان\n. لحم عجل يقدم مع صلصة البندورة الحارة و اللبن",
       "imageName": "i16_4.png",
       "imageCollection":["57.jpg"],
@@ -1113,17 +1113,17 @@
       "chields": [
         {
           "id": 1,
-          "name": "دجاج",
+          "name": "(500g)دجاج",
           "prices": [159]
         },
         {
           "id": 2,
-          "name": "لحم",
+          "name": "(500g)لحم",
           "prices": [175]
         },
         {
           "id": 3,
-          "name": "مشكل",
+          "name": "(750g)مشكل",
           "prices": [197]
         }
       ]
