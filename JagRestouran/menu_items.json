@@ -708,14 +708,14 @@
       "chields": [
         {
           "id": 1,
-          "name": "With meat",
+          "name": "With meat (1 piece)",
           "prices": [
             19
           ]
         },
         {
           "id": 2,
-          "name": "With green",
+          "name": "With green (1 piece)",
           "prices": [
             15
           ]
