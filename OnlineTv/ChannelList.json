@@ -3,19 +3,19 @@
 {
 "id":1,
 "name":"TRT 1",
-"imageUrl":"",
+"imageUrl":"https://raw.githubusercontent.com/pervizqazizade/PublicFiles/master/OnlineTv/images/channelLogos/trt-1.png",
 "streamUrl":"http://kanal.canlitvlive.io/trt1/live.m3u8?tkn=0UiUkIBs_tYdc2BYXt8mHw&tms=1517073856"
 },
 {
 "id":2,
 "name":"ATV HD",
-"imageUrl":"",
+"imageUrl":"https://raw.githubusercontent.com/pervizqazizade/PublicFiles/master/OnlineTv/images/channelLogos/atv.png",
 "streamUrl":"http://yayin.canlitvlive.io/atv/live.m3u8?tkn=eT1RVN4Uxuod-Ec1s9B47w&tms=1517074040"
 },
 {
 "id":3,
 "name":"Star TV",
-"imageUrl":"",
+"imageUrl":"https://raw.githubusercontent.com/pervizqazizade/PublicFiles/master/OnlineTv/images/channelLogos/star-tv.png",
 "streamUrl":"http://yayin.canlitvlive.io/startv/live.m3u8?tkn=uMidU7PRUig0qrV-r5OQeg&tms=1517074106"
 },
 
