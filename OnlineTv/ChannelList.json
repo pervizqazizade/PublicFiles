@@ -2,9 +2,9 @@
 "channelList":[
 {
 "id":1,
-"name":"TRT 1",
+"name":"TRT 4 COCUK",
 "imageUrl":"https://raw.githubusercontent.com/pervizqazizade/PublicFiles/master/OnlineTv/images/channelLogos/trt-1.png",
-"streamUrl":"http://kanal.canlitvlive.io/trt1/live.m3u8?tkn=0UiUkIBs_tYdc2BYXt8mHw&tms=1517073856"
+"streamUrl":"http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_900_av-b.m3u8?sd=10&rebase=on"
 },
 {
 "id":2,
