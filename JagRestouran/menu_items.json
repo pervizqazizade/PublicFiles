@@ -259,13 +259,13 @@
     {
       "id": 16,
       "parentId": 2,
-      "name": "Chicken Lavangi",
-      "description": "Chicken Breast Stuffed with Walnut, Onion and \nCherry Plum. Served with Steam Rice.",
-      "imageName": "i5_3.png",
+      "name": "Xamalı Toyuq",
+      "description": "Chicken fillet, mushroom, onion, pickled \ncucumber, tomato, cream, served with rice.",
+      "imageName": "16_1.jpeg",
       "descLineCount": 2,
-      "imageCollection":["16.jpg"],
+      "imageCollection":["16_1.jpeg"],
       "headLineCount": 1,
-      "price": 56,
+      "price": 59,
       "hasChield": false,
       "chields": []
     },
