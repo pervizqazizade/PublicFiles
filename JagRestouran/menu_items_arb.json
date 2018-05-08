@@ -722,10 +722,10 @@
     {
       "id": 49,
       "parentId": 6,
-      "name": "تاج ريش",
+      "name": "ريش تندير",
       "description": "طلب مسبق\nجيد ل 3اشخاص\nريش تاج مع الثوم وصوص الرومان وبهارات ازربيجانيه\nيقدم مع الخضروات المشويه",
-      "imageName": "i14_1.png",
-      "imageCollection":["49.jpg"],
+      "imageName": "i14_1_1.png",
+      "imageCollection":["49_1.jpeg"],
       "descLineCount": 4,
       "headLineCount": 1,
       "price": 249,
