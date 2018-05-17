@@ -191,19 +191,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 11,
-      "parentId": 4,
-      "name": "Cesar",
-      "description": "Chicken breast, iceberg,  lollorosso, cherry \ntomato parmesan cheese and special sauce",
-      "imageName": "i4_3.png",
-      "descLineCount": 2,
-      "headLineCount": 1,
-      "imageCollection":["11.jpg"],
-      "price": 39,
-      "hasChield": false,
-      "chields": []
-    },
+    
     {
       "id": 13,
       "parentId": 4,

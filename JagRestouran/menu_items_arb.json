@@ -188,19 +188,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 11,
-      "parentId": 4,
-      "name": "سلطة القيصر",
-      "description": "صدر دجاج , خس , بندورة , جبنة برميزان , \nخبز الكروتونز مع صلصة خاصة",
-      "imageName": "i4_3.png",
-      "imageCollection":["11.jpg"],
-      "descLineCount": 2,
-      "headLineCount": 1,
-      "price": 39,
-      "hasChield": false,
-      "chields": []
-    },
+    
    
     {
       "id": 13,
