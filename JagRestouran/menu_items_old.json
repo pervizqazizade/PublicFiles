@@ -3,10 +3,10 @@
     {
       "id": 1,
       "parentId": 7,
-      "name": "قاىمة افطار تقليدي",
-      "description": " عجة , كريمة حامضة , نقانق , كريمة , \nجبنة , عسل , زبدة ,خيار بندورة, شاي , قهوة او \nعصير طبيعي",
+      "name": "Traditional Breakfast Set",
+      "description": "Omlette, sour cream, sausages, cream, \ncheese, honey, butter, cucumber, tomato, tea, \ncoffe or fresh juice",
       "imageName": "i2_1.png",
-      "descLineCount": 3,
+      "descLineCount": 3, 
       "headLineCount": 1,
       "imageCollection":["2_1.png"],
       "price": 79,
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "parentId": 7,
-      "name": ":عجة",
+      "name": "Omlettes:",
       "description": "",
       "imageName": "i2_2.png",
       "imageCollection":["2.jpg","2_1.jpg","2_2.jpg","2_3.jpg"],
@@ -27,28 +27,31 @@
       "chields": [
         {
           "id": 1,
-          "name": "كلاسيك",
+          "name": "Classic",
+          "description":"Test description",
+          "descLineCount": 1,
+          "headLineCount": 1,
           "prices": [
             12
           ]
         },
         {
           "id": 2,
-          "name": "مع بصل",
+          "name": "With onion",
           "prices": [
             15
           ]
         },
         {
           "id": 3,
-          "name": "مع سجف",
+          "name": "With suchuk",
           "prices": [
             25
           ]
         },
         {
           "id": 4,
-          "name": "مع جبنة",
+          "name": "With cheese",
           "prices": [
             17
           ]
@@ -58,7 +61,7 @@
     {
       "id": 3,
       "parentId": 7,
-      "name": ":كريب",
+      "name": "Crepe:",
       "description": "",
       "imageName": "i2_3.png",
       "imageCollection":["3_1.jpg","3_2.jpg","3_3.jpg"],
@@ -69,28 +72,28 @@
       "chields": [
         {
           "id": 1,
-          "name": "كريب مع لحمة",
+          "name": "With meat",
           "prices": [
             20
           ]
         },
         {
           "id": 2,
-          "name": "كريب مع جبنة كوتيج",
+          "name": "With cottage cheese",
           "prices": [
             15
           ]
         },
         {
           "id": 3,
-          "name": "كريب مع نوتيل",
+          "name": "With nutella",
           "prices": [
             17
           ]
         },
         {
           "id": 4,
-          "name": "كريب مع عسل",
+          "name": "With jam",
           "prices": [
             15
           ]
@@ -100,11 +103,11 @@
     {
       "id": 4,
       "parentId": 7,
-      "name": "سابزي كوكو",
-      "description": "عجة  مع الاوراق الضراء , تقدم مع لبن و جوز",
+      "name": "Sabzi Kuku",
+      "description": "Sizzling Greens Omelet, Served with \nPlain Yogurt and Grated Walnuts",
       "imageName": "i2_4.png",
+      "descLineCount": 2,
       "imageCollection":["4.jpg"],
-      "descLineCount": 1,
       "headLineCount": 1,
       "price": 35,
       "hasChield": false,
@@ -113,8 +116,8 @@
     {
       "id": 5,
       "parentId": 7,
-      "name": "بيضة - طماطم",
-      "description": "شكشوكة ازربيجانية , مقطعة ناعمة , بندورة\n طازجة مستوردة من ازربيجان  مقلية مع\n الزبدة و البيض",
+      "name": "Yumurta- Pomidor",
+      "description": "Azeri Style Shakshuka - Finely cut, Fresh \nPeeled Organic Tomatoes imported from \nAzerbaijan, Fried with Egg and Butter",
       "imageName": "i2_5.png",
       "imageCollection":["2_5.png"],
       "descLineCount": 3,
@@ -126,11 +129,11 @@
     {
       "id": 6,
       "parentId": 1,
-      "name": "شوربة دجاج",
-      "description": "دجاج , جزر , بصل , نودلز ,  بطاطا بالزبدة",
+      "name": "Chicken",
+      "description": "Chicken meat, Carrot, Mix Capsicum, onion, \nnoodles, potato and butter",
       "imageName": "i3_1.png",
+      "descLineCount": 2,
       "imageCollection":["3_1.png"],
-      "descLineCount": 1,
       "headLineCount": 1,
       "price": 19,
       "hasChield": false,
@@ -139,11 +142,11 @@
     {
       "id": 7,
       "parentId": 1,
-      "name": "دوشبرة",
-      "description": " أعشاب مستورده من ازربيجان\nشوربة لحم العجل التقليدي تقدم مع نعنع جاف",
+      "name": "Dushbara",
+      "description": "Traditional Lamb Dumpling Soup served with \nGarlic and Dry Mint Vinegar. \nOrganic Lamb Import from Azerbaijan.",
       "imageName": "i3_2.png",
+      "descLineCount": 3,
       "imageCollection":["7.jpg"],
-      "descLineCount": 2,
       "headLineCount": 1,
       "price": 32,
       "hasChield": false,
@@ -152,11 +155,11 @@
     {
       "id": 8,
       "parentId": 1,
-      "name": "دوفقا",
-      "description": "لبن مطبوخ مع الاعشاب الخضراء , توابل جبلية , بازيلا و \nارزيقدم عادة ساخن",
+      "name": "Dovga",
+      "description": "Yogurt Soup Cooked with Mixed Greens, \nMountain Herbs,Peas and Rice. Dovga is \noften served warm in a bowl during winters \nor refreshingly cold in glass during summers.",
       "imageName": "i3_3.png",
       "imageCollection":["8.jpeg"],
-      "descLineCount": 2,
+      "descLineCount": 4,
       "headLineCount": 1,
       "price": 24,
       "hasChield": false,
@@ -165,11 +168,11 @@
     {
       "id": 9,
       "parentId": 4,
-      "name": "سلطة المنقل",
-      "description": "باذنجان مشوي, فلفل و بندورة , مع زيت زيتون,و غصن \nالريحان , ثوم , وبصل احمر",
+      "name": "Mangal Salad",
+      "description": "Grilled and Peeled Eggplant, Peppers and \nTomatoes, Mixed with Olive Oil, Finely Cut \nBasil, Garlic, Parsley and Red Onion ",
       "imageName": "i4_1.png",
       "imageCollection":["9.jpg"],
-      "descLineCount": 2,
+      "descLineCount": 3,
       "headLineCount": 1,
       "price": 22,
       "hasChield": false,
@@ -178,12 +181,12 @@
     {
       "id": 10,
       "parentId": 4,
-      "name": "سلطة الشوبان",
-      "description": "مقطع , بندورة , بصل احمر , ريحان احمر , كزبرة, \nتقدم مع عصير الليمن الطازج و زيت الزيتون",
+      "name": "Choban Salad",
+      "description": "Finely cut Cucumbers, Tomatoes, Red Onions, \nDill, Red Basil, Coriander, mixed with \nFresh Lemon Juice and Olive Oil",
       "imageName": "i4_2.png",
-      "imageCollection":["10.jpg"],
-      "descLineCount": 2,
+      "descLineCount": 3,
       "headLineCount": 1,
+      "imageCollection":["10.jpg"],
       "price": 19,
       "hasChield": false,
       "chields": []
@@ -191,22 +194,34 @@
     {
       "id": 11,
       "parentId": 4,
-      "name": "سلطة القيصر",
-      "description": "صدر دجاج , خس , بندورة , جبنة برميزان , \nخبز الكروتونز مع صلصة خاصة",
+      "name": "Cesar",
+      "description": "Chicken breast, iceberg,  lollorosso, cherry \ntomato parmesan cheese and special sauce",
       "imageName": "i4_3.png",
-      "imageCollection":["11.jpg"],
       "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["11.jpg"],
       "price": 39,
       "hasChield": false,
       "chields": []
     },
-   
+    {
+      "id": 12,
+      "parentId": 4,
+      "name": "Olivye Salad",
+      "description": "Boiled Chicken Breast, Potatoes, Eggs, Carrots \nMixed with Peas and Cucumbers in Sour Cream",
+      "imageName": "i4_4.png",
+      "descLineCount": 2,
+      "headLineCount": 1,
+      "imageCollection":["12.jpeg","76_1.jpeg"],
+      "price": 25,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 13,
       "parentId": 4,
-      "name": "سلطة ياشيل",
-      "description": "بندوره مجففه. بصل احمر. جرجي\nر. خس. مع صوص الليمون والزنجبيل",
+      "name": "Yashil Salad",
+      "description": "Sundried tomato, shallot onion, Lollo Rosso, \nrucola salad, leaf salad, Ginger and lemon sauce",
       "imageName": "i4_5.png",
       "imageCollection":["13.jpg"],
       "descLineCount": 2,
@@ -218,12 +233,12 @@
     {
       "id": 14,
       "parentId": 2,
-      "name": "تورشو جوفورما بلوف",
-      "description": " أعشاب مستورده من ازربيجان\nلحم عجل عضوي مستورد من اذربيجان ,مكسرات و فواكة \nمجففة مقلية بالزبدة والبصل , يقدم مع الارز",
+      "name": "Turshu Govurma Pilaw",
+      "description": "Organic lamb import from Azerbaijan, Chestnuts \nwith Dried Fruits fried with Butter and Onion, \nserved with Saffron Rice",
       "imageName": "i5_1.png",
-      "imageCollection":["14.jpg"],
       "descLineCount": 3,
       "headLineCount": 1,
+      "imageCollection":["14.jpg"],
       "price": 72,
       "hasChield": false,
       "chields": []
@@ -231,11 +246,11 @@
     {
       "id": 15,
       "parentId": 2,
-      "name": "جوفورما  باكو ستايل",
-      "description": " أعشاب مستورده من ازربيجان\nلحم عجل , بصل احمر , زبدة , سماق مع الاعشاب",
+      "name": "Baku Style Govurma",
+      "description": "Lamb ,Potato , red onion, butter, sumakh with \ngreen. Organic Lamb Import from Azerbaijan",
       "imageName": "i5_2.png",
+      "descLineCount": 2,
       "imageCollection":["5_2.png"],
-      "descLineCount":2,
       "headLineCount": 1,
       "price": 65,
       "hasChield": false,
@@ -244,27 +259,51 @@
     {
       "id": 16,
       "parentId": 2,
-      "name": "خملي تويوق",
-      "description": "صدور دجاج مع مشروم و بصل وخيار \nمخلل وصوص الطماطم تقدم مع أرز",
+      "name": "Xamalı Toyuq",
+      "description": "Chicken fillet, mushroom, onion, pickled \ncucumber, tomato, cream, served with rice.",
       "imageName": "78.png",
-      "imageCollection":["16_1.jpeg"],
       "descLineCount": 2,
+      "imageCollection":["16_1.jpeg"],
       "headLineCount": 1,
       "price": 59,
       "hasChield": false,
       "chields": []
     },
-     
-    
+    {
+      "id": 17,
+      "parentId": 2,
+      "name": "Leaf Dolma",
+      "description": "Minced Lamb mixed with Greens and Rice, \nWrapped in Tender Grape Leaves, Steamed in a \nPot and Served with Natural Plain Yogurt.\nOrganic Lamb Import from Azerbaijan",
+      "imageName": "i5_4.png",
+      "descLineCount": 4,
+      "imageCollection":["17.jpg"],
+      "headLineCount": 1,
+      "price": 59,
+      "hasChield": false,
+      "chields": []
+    },
+    {
+      "id": 18,
+      "parentId": 2,
+      "name": "Piti",
+      "description": "Lamb Broth Cooked with Chestnut, Peas, Onion, \nDry Yellow Plum and Saffron served in a \nClay Pitcher. Organic Lamb Import \nfrom Azerbaijan.",
+      "imageName": "i5_5.png",
+      "descLineCount": 4,
+      "imageCollection":["18.JPG"],
+      "headLineCount": 1,
+      "price": 67,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 19,
       "parentId": 3,
-      "name": "(250g)لولا كباب",
-      "description": "أعشاب مستورده من ازربيجان\nلحم عجل عضوي بصل , و اعشاب",
+      "name": "Lamb Lula Kebab(250g)",
+      "description": "Prepared with Minced Lamb, Onions and Greens.\nOrganic Lamb Import from Azerbaijan. ",
       "imageName": "i6_1.png",
-      "imageCollection":["6_1.png"],
       "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["6_1.png"],
       "price": 75,
       "hasChield": false,
       "chields": []
@@ -272,11 +311,11 @@
     {
       "id": 20,
       "parentId": 3,
-      "name": "(250g)بطاطا لولا كباب",
-      "description": "بطاطا مهروسه مع دهن الخروف",
+      "name": "Potato Lula Kebab(250g)",
+      "description": "Mashed Potato Kebab with Lamb fat.",
       "imageName": "i6_2.png",
-      "imageCollection":["20.jpeg"],
       "descLineCount": 1,
+      "imageCollection":["20.jpeg"],
       "headLineCount": 1,
       "price": 39,
       "hasChield": false,
@@ -285,11 +324,11 @@
     {
       "id": 21,
       "parentId": 3,
-      "name": "(300g)دجاج تكا كباب",
-      "description": "دجاج متبل بصلصة الطماطم والبهارات الازربيجانيه",
+      "name": "Chicken Tike Kebab(300g)",
+      "description": "Chicken marinated with tomato sauce \nand spices",
       "imageName": "i6_3_.png",
       "imageCollection":["21.jpg","21_1.jpeg"],
-      "descLineCount": 1,
+      "descLineCount": 2,
       "headLineCount": 1,
       "price": 59,
       "hasChield": false,
@@ -298,11 +337,11 @@
     {
       "id": 22,
       "parentId": 3,
-      "name": "(250g)كباب تكا لحم",
-      "description": "أعشاب مستورده من ازربيجان\nلحم العجل متبل بالبصل وعصير الليمون",
+      "name": "Lamb Tike Kebab(250g)",
+      "description": "Lamb marinated with onion and lemon juice. \nImportant from Azerbaijan",
       "imageName": "i6_4.png",
-      "imageCollection":["22.jpeg"],
       "descLineCount": 2,
+      "imageCollection":["22.jpeg"],
       "headLineCount": 1,
       "price": 79,
       "hasChield": false,
@@ -311,12 +350,12 @@
     {
       "id": 23,
       "parentId": 3,
-      "name": "(450g)لحم الريش",
-      "description": "أعشاب مستورده من ازربيجان\nلحم الريش متبل بالفلفل الطازج وملح البحر",
+      "name": "Lamb Ribs Kebab(450g)",
+      "description": "Only fresh pepper and sea salt. Lamb \nimportant from Azerbaijan",
       "imageName": "i6_5.png",
-      "imageCollection":["23.jpeg"],
-      "descLineCount": 3,
+      "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["23.jpeg"],
       "price": 89,
       "hasChield": false,
       "chields": []
@@ -324,11 +363,11 @@
     {
       "id": 24,
       "parentId": 8,
-      "name": "طبق فواكة مشكل",
-      "description": "فواكة مستوردة  مقطعة على الطريقة الاذربيجانية",
+      "name": "Fruit Platter",
+      "description": "Assorted cut fruit in Azeri style",
       "imageName": "i7_1.png",
-      "imageCollection":["24.jpg"],
       "descLineCount": 1,
+      "imageCollection":["24.jpg"],
       "headLineCount": 1,
       "price": 50,
       "hasChield": false,
@@ -337,12 +376,12 @@
     {
       "id": 25,
       "parentId": 8,
-      "name": "بقلاوة مع البوظة",
+      "name": "Baklava with Ice Cream",
       "description": "",
       "imageName": "i7_2.png",
-      "imageCollection":["25.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
+      "imageCollection":["25.jpg"],
       "price": 39,
       "hasChield": false,
       "chields": []
@@ -350,12 +389,12 @@
     {
       "id": 26,
       "parentId": 8,
-      "name": "مربى",
-      "description": "مربى بيتي خالي من الكيماويات و المواد الحافظة \n\n جوز\n كرز اصفر\n و فواكة",
+      "name": "Murabba",
+      "description": "Homemade Murabbas, free of concentrate \nand chemical additives. Naturally prepared \nwith Fruits preserved in Sugar Syrup  Walnut \n Yellow Cherries \n Green Olives \n Watermelon \n Quince \n Strawberry \n Apricot FIGS",
       "imageName": "i7_3.png",
-      "imageCollection":["26.jpg","26_1.jpeg"],
-      "descLineCount": 5,
+      "descLineCount": 9,
       "headLineCount": 1,
+      "imageCollection":["26.jpg","26_1.jpeg"],
       "price": 25,
       "hasChield": false,
       "chields": []
@@ -363,8 +402,8 @@
     {
       "id": 27,
       "parentId": 8,
-      "name": "بوظة",
-      "description": "شوكولاتة \n فانيلا \n فراولة",
+      "name": "Ice Cream",
+      "description": "Strawberry \n Vanilla \n Chocolate",
       "imageName": "i7_4.png",
       "imageCollection":["7_4.png","27_1.jpeg"],
       "descLineCount": 3,
@@ -376,9 +415,9 @@
     {
       "id": 28,
       "parentId": 9,
-      "name": "مشروبات",
-      "description": "كوكا كول \nكوكا  كولا لايت \nفانتا \nسبرايت",
-      "imageName": "image",
+      "name": "Drinks",
+      "description": "Coca Cola \nCocoa Cola Light \nFanta \nSprite",
+      "imageName": "image.png",
       "descLineCount": 4,
       "headLineCount": 1,
       "price": 12,
@@ -388,9 +427,9 @@
     {
       "id": 29,
       "parentId": 9,
-      "name": "ماء معدنية",
+      "name": "Still Water",
       "description": "",
-      "imageName": "image",
+      "imageName": "image.png",
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 0,
@@ -415,9 +454,9 @@
     {
       "id": 30,
       "parentId": 9,
-      "name": "ماء غازية",
+      "name": "Sparkling Water",
       "description": "",
-      "imageName": "image",
+      "imageName": "image.png",
       "descLineCount": 1,
       "headLineCount": 1,
       "price": 0,
@@ -442,11 +481,11 @@
     {
       "id": 31,
       "parentId": 9,
-      "name": "كومبوت (1 لتر)",
+      "name": "Compote (1 litre)",
       "description": "",
       "imageName": "i8_4.png",
       "imageCollection":["8_4.png"],
-      "descLineCount": 2,
+      "descLineCount": 1,
       "headLineCount": 1,
       "price": 45,
       "hasChield": false,
@@ -455,7 +494,7 @@
     {
       "id": 32,
       "parentId": 9,
-      "name": "بيتر ليمون",
+      "name": "Bitter Lemon ",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -467,7 +506,7 @@
     {
       "id": 33,
       "parentId": 10,
-      "name": "ارز",
+      "name": "Rice",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -479,7 +518,7 @@
     {
       "id": 34,
       "parentId": 10,
-      "name": "بطاطا مقلية",
+      "name": "French fries",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -491,7 +530,7 @@
     {
       "id": 35,
       "parentId": 10,
-      "name": "بطاطا مهروسة",
+      "name": "Mash potato",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -503,7 +542,7 @@
     {
       "id": 36,
       "parentId": 10,
-      "name": "خضار مشوي",
+      "name": "Grilled vegetables",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -515,12 +554,12 @@
     {
       "id": 37,
       "parentId": 5,
-      "name": "دجاج فيليه مقلي",
+      "name": "Chicken fillet deep fried",
       "description": "",
       "imageName": "i10_1.png",
-      "imageCollection":["37.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
+      "imageCollection":["37.jpg"],
       "price": 29,
       "hasChield": false,
       "chields": []
@@ -528,53 +567,89 @@
     {
       "id": 38,
       "parentId": 5,
-      "name": "سيخ قطع دجاج",
+      "name": "Chicken on chopstick",
       "description": "",
       "imageName": "i10_2.png",
-      "imageCollection":["38.jpg"],
       "descLineCount": 1,
+      "imageCollection":["38.jpg"],
       "headLineCount": 1,
       "price": 32,
       "hasChield": false,
       "chields": []
     },
-     
+    {
+      "id": 39,
+      "parentId": 6,
+      "name": "Assorted Plov",
+      "description": "Preorder.\nGood for 4 people. 6 type of plov, rice with dill \npumpkin, chestnut, barberry, saffron, dry grapes. \nServed with lamb and chicken.Organic Lamb \nImport from Azerbaijan.",
+      "imageName": "i11_1.png",
+      "descLineCount": 5,
+      "headLineCount": 1,
+      "imageCollection":["11_1.png"],
+      "price": 297,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 40,
       "parentId": 6,
-      "name": "شاه بلوف",
-      "description": "أعشاب مستورده من ازربيجان\nطلب مسبق\nالخبز بيتا الرقيقه\nوالفواكه المجففه والبصل والزعفران كل هذا ملفوف في\nجيد لشخصين الأرز ولحم الضأن والكستناء",
+      "name": "Shah Plov",
+      "description": "Preorder.\nGood for 2 people. Rice, lamb, chestnut, dried \nfruits, saffron all these wrapped in thin pita bread.\nOrganic lamb import from Azerbaijan",
       "imageName": "i11_2.png",
-      "imageCollection":["11_2.png"],
-      "descLineCount": 5,
+      "descLineCount": 4,
       "headLineCount": 1,
+      "imageCollection":["11_2.png"],
       "price": 189,
       "hasChield": false,
       "chields": []
     },
-     
+    {
+      "id": 41,
+      "parentId": 6,
+      "name": "Dosheme Plov",
+      "description": "Preorder.\nGood for 2 person. Whole marinated Chicken \nwhite rice, saffron",
+      "imageName": "i11_3.png",
+      "descLineCount": 3,
+      "headLineCount": 1,
+       "imageCollection":["41.jpg"],
+      "price": 119,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 42,
       "parentId": 6,
-      "name": "كوزو بودو بلوف",
-      "description": "طلب مسبق\nجيد ل 4 اشخاص : لحم متبل مع الثوم و \nالجزر , يلف ب خبز رقيق يقدم مع الخضروات \nحم عضوي مستورد خصيصا من اذربيجان",
+      "name": "Quzu Budu Sobada",
+      "description": "Preorder.\nGood for 4 person. Whole marinated lamb leg \nwith garlic andcarrot. Wrapped in thin bread. \nServed with vegetable.Organic lamb import\n from Azerbaijan",
       "imageName": "i11_4.png",
-      "imageCollection":["42.jpg"],
-      "descLineCount": 4,
+      "descLineCount": 5,
       "headLineCount": 1,
+      "imageCollection":["42.jpg"],
       "price": 365,
       "hasChield": false,
       "chields": []
     },
-     
+    {
+      "id": 43,
+      "parentId": 6,
+      "name": "Sumuysuz Kutum Levengi",
+      "description": "Preorder.\nGood for 2 people. Whole marinated Fish, \nwalnut, onion,plum pure, barberry, butter. \nServed with rice.Organic Fish important \nfrom Azerbaijan",
+      "imageName": "i11_5.png",
+      "descLineCount": 5,
+      "headLineCount": 1,
+      "imageCollection":["43.jpeg"],
+      "price": 139,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 44,
       "parentId": 4,
-      "name": "خضروات مشكلة",
-      "description": "بندورة عضوية , خيار , اربع انواع من العشب \nالاخضر العضوي مستورد من اذربيجان",
+      "name": "Vegetable Bouquet",
+      "description": "Organic Tomato and Cucumber with 4 kind of \ngreens organic import from Azerbaijan",
       "imageName": "i12_1.png",
-      "imageCollection":["44.JPG"],
       "descLineCount": 2,
+      "imageCollection":["44.JPG"],
       "headLineCount": 1,
       "price": 35,
       "hasChield": false,
@@ -583,8 +658,8 @@
     {
       "id": 45,
       "parentId": 4,
-      "name": "(200g)طبق جبنة كبير",
-      "description": " أعشاب مستورده من ازربيجان\nجبنة برينزا , جبنة مدخنة , جبنة موتال",
+      "name": "Cheese Platter(200g)",
+      "description": "Cheese brinza, smoked cheese, cheese motal \nspecial from Azerbaijan",
       "imageName": "i12_2.png",
       "imageCollection":["45.jpg"],
       "descLineCount": 2,
@@ -596,25 +671,25 @@
     {
       "id": 46,
       "parentId": 4,
-      "name": "مخلالات",
-      "description": "مخلالات فاكهة و خضروات متنوعة مستوردة من اذربيجان",
+      "name": "Assorted Pickles",
+      "description": "Assorted homemade Fruit & Vegetable Pickles; \nImported from different villages of Azerbaijan",
       "imageName": "i12_3.png",
+      "descLineCount": 2,
       "imageCollection":["46.JPG"],
-      "descLineCount": 1,
       "headLineCount": 1,
       "price": 22,
-      "hasChield": false,
+      "hasChield":false,
       "chields": []
     },
     {
       "id": 47,
       "parentId": 4,
-      "name": "عجينه مقليه محشيه لحم وبصل\n تقدم مع لبنه",
-      "description": " أعشاب مستورده من ازربيجان\nدمبلينغز مقلي محشو باللحم و البصل يقدم مع صلصة حامضة",
+      "name": "Deep Fried Gurza",
+      "description": "Deep fried dumplings filled with Lamb and Onion;\nServed with Sour Cream. Organic Lamb \nImport from Azerbaijan.",
       "imageName": "i12_4.png",
+      "descLineCount": 3,
+      "headLineCount": 1,
       "imageCollection":["47.JPG"],
-      "descLineCount": 2,
-      "headLineCount": 2,
       "price": 32,
       "hasChield": false,
       "chields": []
@@ -622,25 +697,25 @@
     {
       "id": 48,
       "parentId": 4,
-      "name": ":قتاب",
+      "name": "Gutab",
       "description": "",
       "imageName": "i12_5_.png",
-      "imageCollection":["48.JPG","48_1.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
+      "imageCollection":["48.JPG","48_1.jpg"],
       "price": 139,
       "hasChield": true,
       "chields": [
         {
           "id": 1,
-          "name": "مع لحم",
+          "name": "With meat (1 piece)",
           "prices": [
             19
           ]
         },
         {
           "id": 2,
-          "name": "مع اعشاب",
+          "name": "With green (1 piece)",
           "prices": [
             15
           ]
@@ -650,25 +725,37 @@
     {
       "id": 49,
       "parentId": 6,
-      "name": "ريش تندير",
-      "description": "طلب مسبق\nجيد ل 3اشخاص\nريش تاج مع الثوم وصوص الرومان وبهارات ازربيجانيه\nيقدم مع الخضروات المشويه",
+      "name": "Ribs Tandoor",
+      "description": "Preorder.\nGood for 3 person. Whole marinated with \ngarlic and pomegranate souse served \nwith Vegetables.Organic Lamb Import \nfrom Azerbaijan.",
       "imageName": "i14_1_2.png",
+      "descLineCount": 5,
       "imageCollection":["49_1.jpeg"],
-      "descLineCount": 4,
       "headLineCount": 1,
       "price": 249,
       "hasChield": false,
       "chields": []
     },
-     
+    {
+      "id": 50,
+      "parentId": 6,
+      "name": "Tas Kabab (Cholme)",
+      "description": "Preorder.\nGood For 3 person. Organic Chicken Cooked \nwith Chestnut, Peas, Onion, Sumakh Served \nwith Saffron Rice.",
+      "imageName": "i14_2.png",
+      "descLineCount": 4,
+       "imageCollection":["50.jpg"],
+      "headLineCount": 1,
+      "price": 179,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 51,
       "parentId": 8,
-      "name": "شاي",
-      "description": "شاي تقليدي يقدم مع المكسرات و الفواكة المجففة و \nالمربى البيتي و الحلويات الاذربيجانية",
+      "name": "Samovar Chai",
+      "description": "Traditional tea set with assorted nuts, dry \nfruits, murabba of your choice. Azeri pastries \nand a Somovar Of Tea",
       "imageName": "i15_1.png",
+      "descLineCount": 3,
       "imageCollection":["51.jpg","51_1.jpg"],
-      "descLineCount": 2,
       "headLineCount": 1,
       "price": 125,
       "hasChield": false,
@@ -677,11 +764,11 @@
     {
       "id": 52,
       "parentId": 8,
-      "name": "ابريق شاي",
-      "description": "شاي جاغ الخاص\nشاي عادي\nشاي مع الهيل\nشاي مع الزنجبيل\nKeklik Oty Chai\nشاي مع القلرنفل\nشاي مع الياسمين\nشاي مع  القرفة\nشاي مع النعنع المجفف\nشاي مع النعنع الطازج",
+      "name": "Chai (Tea pots)",
+      "description": "Special Jag Chai\nFresh Plain Chai\nCardamom Chai\nChai with Ginger\nKeklik Oty Chai\nClove Chai\nJasmine Chai\nCinnamon Chai\nDry Mint Chai\nFresh Mint Green Chai",
       "imageName": "i15_2.png",
-      "imageCollection":["15_2.png"],
       "descLineCount": 10,
+       "imageCollection":["15_2.png"],
       "headLineCount": 1,
       "price": 30,
       "hasChield": false,
@@ -690,7 +777,7 @@
     {
       "id": 53,
       "parentId": 8,
-      "name": "قهوة",
+      "name": "Coffees",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -700,7 +787,7 @@
       "chields": [
         {
           "id": 1,
-          "name": "قهوة تركية",
+          "name": "Turkish Coffee (double)",
           "prices": [
             20,
             15
@@ -708,7 +795,7 @@
         },
         {
           "id": 2,
-          "name": "اسبرسو",
+          "name": "Espresso (double)",
           "prices": [
             15,
             18
@@ -716,42 +803,42 @@
         },
         {
           "id": 3,
-          "name": "كابوتشينو",
+          "name": "Cappuccino",
           "prices": [
             25
           ]
         },
         {
           "id": 4,
-          "name": "كافيه لاتيه",
+          "name": "Coffee Latte",
           "prices": [
             25
           ]
         },
         {
           "id": 5,
-          "name": "لاتيه مع الكراميل",
+          "name": "Latte with Caramel",
           "prices": [
             30
           ]
         },
         {
           "id": 6,
-          "name": "موكا",
+          "name": "Mocha",
           "prices": [
             25
           ]
         },
         {
           "id": 7,
-          "name": "شوكلاتة ساخنة",
+          "name": "Hot Chocolate",
           "prices": [
             22
           ]
         },
         {
           "id": 8,
-          "name": "موكا مثلجة",
+          "name": "Iced Mocha",
           "prices": [
             30
           ]
@@ -761,12 +848,12 @@
     {
       "id": 54,
       "parentId": 3,
-      "name": "(250g)ادانا لولا كباب",
-      "description": " أعشاب مستورده من ازربيجان\nيحضر مع لحم العجل بصل و الفلفل الحار",
+      "name": "Adana Lula Kebab(250g)",
+      "description": "Prepared with minced lamb, onions and red \nchili, Organic lamb import from Azerbaijan",
       "imageName": "i16_1.png",
-      "imageCollection":["54.jpg"],
       "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["54.jpg"],
       "price": 75,
       "hasChield": false,
       "chields": []
@@ -774,12 +861,12 @@
     {
       "id": 55,
       "parentId": 3,
-      "name": "مشاوي مشكلة , جيد لي 4 اشخاص",
-      "description": "أعشاب مستورده من ازربيجان\nادانا لولا كباب , لولا كباب , لحم الضلع , \nعجل تيك كباب لحم , تشيكن تيك كباب , بطاطا \nلولا كباب  لولا كباب",
+      "name": "Mixed Grill (1750g)\nGood for 4 person",
+      "description": "Lula Lamb Kebab, Adana Kebab, Lamb Rib \nKebab. Lamb Tikka kebab, Chicken Tikka Kebab,\nPotato Lula Kebab, Organic lamb import \nfrom Azerbaijan.",
       "imageName": "i16_2.png",
-      "imageCollection":["55.jpeg"],
       "descLineCount": 4,
-      "headLineCount": 1,
+      "imageCollection":["55.jpeg"],
+      "headLineCount": 2,
       "price": 369,
       "hasChield": false,
       "chields": []
@@ -787,26 +874,38 @@
     {
       "id": 56,
       "parentId": 3,
-      "name": "(200g)جاغ كباب",
-      "description": "أعشاب مستورده من ازربيجان\nكباب  تركي مصنوع من حم العجل المتبل يقدم مع الارز",
+      "name": "JAG Kebab(200g)",
+      "description": "Traditional Turkish Erzurum kebab made of\nmarinated lamb with rice. Organic Lamb \nImport from Azerbaijan.",
       "imageName": "i16_3_.png",
-      "imageCollection":["56.jpg","56_1.jpeg","56_2.jpeg"],
-      "descLineCount": 2,
+      "descLineCount": 3,
       "headLineCount": 1,
+      "imageCollection":["56.jpg","56_1.jpeg","56_2.jpeg"],
       "price": 65,
       "hasChield": false,
       "chields": []
     },
-   
+    {
+      "id": 57,
+      "parentId": 3,
+      "name": "Iskender Kebab(300g)",
+      "description": "Thinly Cut Grilled Lamb with Hot Tomato \nSauce Over Pieces ofBread and Served \nwith Plain Yogurt. Organic Lamb Import \nfrom Azerbaijan.",
+      "imageName": "i16_4.png",
+      "descLineCount": 4,
+      "imageCollection":["57.jpg"],
+      "headLineCount": 1,
+      "price": 85,
+      "hasChield": false,
+      "chields": []
+    },
     {
       "id": 58,
       "parentId": 3,
-      "name": "دجاج باربيكيو",
-      "description": "علي الطريقه الازربيجانيه\nدجاج مشوى علي الفحم يقدم مع البطاطا",
+      "name": "Chicken BBQ",
+      "description": "Organic Chicken import from Azerbaijan \nserved with Fries",
       "imageName": "i13_2.png",
-      "imageCollection":["73.jpeg"],
       "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["73.jpeg"],
       "price": 72,
       "hasChield": false,
       "chields": []
@@ -814,7 +913,7 @@
     {
       "id": 59,
       "parentId": 9,
-      "name": "جنجر",
+      "name": "Ginger Ale",
       "description": "",
       "imageName": "image.png",
       "descLineCount": 1,
@@ -823,13 +922,13 @@
       "hasChield": false,
       "chields": []
     },
-    
-
+     
+     
     {
       "id": 62,
       "parentId": 9,
-      "name": "ليموندا(مشروب چورچيا",
-      "description": "طرخون\nكمثرى\nعنب\nليمون",
+      "name": "Lemonade (Georgia)",
+      "description": "Tarragon\nPear\nLemon\nGrape",
       "imageName": "image.png",
       "descLineCount": 4,
       "headLineCount": 1,
@@ -840,8 +939,8 @@
     {
       "id": 63,
       "parentId": 9,
-      "name": "شاي مثلج بيتي",
-      "description": "ليمون\nدراق",
+      "name": "Homemade Ice Tea",
+      "description": "Lemon\nPeach",
       "imageName": "image.png",
       "descLineCount": 2,
       "headLineCount": 1,
@@ -849,15 +948,15 @@
       "hasChield": false,
       "chields": []
     },
-    
+     
     {
       "id": 65,
       "parentId": 9,
-      "name": "لبن عيران",
-      "description": "عيران عادي\nعيران مع النعناع المجفف",
+      "name": "Ayran",
+      "description": "Azerbaijani Laban. Prepared simple or with Dry Mint",
       "imageName": "i65_1.png",
       "imageCollection":["65_1.jpeg"],
-      "descLineCount": 2,
+      "descLineCount": 1,
       "headLineCount": 1,
       "price": 22,
       "hasChield": false,
@@ -866,10 +965,10 @@
     {
       "id": 66,
       "parentId": 9,
-      "name": "دوغرماچ",
-      "description": "لبن مع خيار , ريحان , بصل اخضر",
+      "name": "Doghramaj",
+      "description": "Laban with Cucumber, Basil, Coriander and \nGreen Onion Leaves",
       "imageName": "image.png",
-      "descLineCount": 1,
+      "descLineCount": 2,
       "headLineCount": 1,
       "price": 19,
       "hasChield": false,
@@ -878,60 +977,60 @@
     {
       "id": 67,
       "parentId": 9,
-      "name": "عصائر فريش",
+      "name": "Fresh Squeezed:",
       "description": "",
       "imageName": "i67_.png",
-      "imageCollection":["67_.jpg"],
       "descLineCount": 1,
       "headLineCount": 1,
+      "imageCollection":["67_.jpg"],
       "price": 0,
       "hasChield": true,
       "chields": [
         {
           "id": 1,
-          "name": "تفاح",
+          "name": "Apple",
           "prices": [
             25
           ]
         },
         {
           "id": 2,
-          "name": "برتقال",
+          "name": "Orange",
           "prices": [
             25
           ]
         },
         {
           "id": 3,
-          "name": "جزر",
+          "name": "Carrot",
           "prices": [
             25
           ]
         },
         {
           "id": 4,
-          "name": "اناناس",
+          "name": "Pineapple",
           "prices": [
             25
           ]
         },
         {
           "id": 5,
-          "name": "ليمون",
+          "name": "Lemonade",
           "prices": [
             25
           ]
         },
         {
           "id": 6,
-          "name": "ليمون مع نعنع",
+          "name": "Lemon and Mint",
           "prices": [
             25
           ]
         },
         {
           "id": 7,
-          "name": "رمان",
+          "name": "Pomegranate",
           "prices": [
             35
           ]
@@ -942,11 +1041,11 @@
     {
       "id": 69,
       "parentId": 9,
-      "name": "موهيتو",
-      "description": "مشروب غير كحولي يحوي أوراق النعناع ومسحوق الثلج وال\nليمون الحامض والصودا،مخلوطة مع شراب فاكهة من اختيارك - الفراولة/ التفاح",
+      "name": "Sober Mojito",
+      "description": "Non Alcoholic drink with Mint Leaves, \nCrushed Ice, Lime and Soda, mixed \nwith Fruit Syrup",
       "imageName": "i18_4_.PNG",
       "imageCollection":["69.jpg"],
-      "descLineCount": 2,
+      "descLineCount": 3,
       "headLineCount": 1,
       "price": 35,
       "hasChield": false,
@@ -955,10 +1054,10 @@
     {
       "id": 70,
       "parentId": 9,
-      "name": "سندريلا",
-      "description": "عصير الاناناس , عصير البرتقال , عصير الليمون",
+      "name": "Cinderella",
+      "description": "Pineapple Juice, Orange Juice, Lemon Juice, \nGrenadine Syrup",
       "imageName": "image.png",
-      "descLineCount": 1,
+      "descLineCount": 2,
       "headLineCount": 1,
       "price": 35,
       "hasChield": false,
@@ -967,12 +1066,12 @@
     {
       "id": 71,
       "parentId": 9,
-      "name": "ميلك شيك:",
-      "description": "فراولة\nموز\nفانيلا\nشوكلاتة\nاوريو",
+      "name": "Milkshakes:",
+      "description": "Strawberry\nBanana\nVanilla\nChocolate\nOreo",
       "imageName": "i19_4.png",
-      "imageCollection":["71.jpg"],
       "descLineCount": 5,
       "headLineCount": 1,
+      "imageCollection":["71.jpg"],
       "price": 39,
       "hasChield": false,
       "chields": []
@@ -980,12 +1079,12 @@
     {
       "id": 72,
       "parentId": 2,
-      "name": "جورزا",
-      "description": " أعشاب مستورده من ازربيجان\nدمبلينغز باللحم مسلوق على الطريقة \nالاذربيجانية يقدم مع صلصة حامضة",
+      "name": "Gurza",
+      "description": "Steamed Lamb dumplings in Azeri style,\nserved with Sour Cream. Organic Lamb Import \nfrom Azerbaijan.",
       "imageName": "i13_1.png",
-      "imageCollection":["72.jpg"],
       "descLineCount": 3,
       "headLineCount": 1,
+      "imageCollection":["72.jpg"],
       "price": 59,
       "hasChield": false,
       "chields": []
@@ -993,12 +1092,12 @@
     {
       "id": 73,
       "parentId": 2,
-      "name": "دجاج تاباكا",
-      "description": "دجاج عضوي مقلي مع البطاطا",
+      "name": "Chicken Tabaka",
+      "description": "Fried Organic Baby Chicken with\n home stile potato",
       "imageName": "i13_2.png",
-      "imageCollection":["73.jpeg"],
-      "descLineCount": 1,
+      "descLineCount": 2,
       "headLineCount": 1,
+      "imageCollection":["73.jpeg"],
       "price": 72,
       "hasChield": false,
       "chields": []
@@ -1006,28 +1105,28 @@
     {
       "id": 74,
       "parentId": 2,
-      "name": "صاج",
-      "description": "مطهو علي الطريقه الازربيجانيه يقدم مع البازنجان \nوالبطاطا والطماطم والفلفل الحلو والبصل يقدم حسب اختياركم",
+      "name": "Saj",
+      "description": "Cooked on Azeri style wok pan. \nServed with eggplant, potato, tomato, \npepper, onion, with your choice of.",
       "imageName":"i13_3.png",
-      "imageCollection":["74_1.jpg","74_2.jpg"],
-      "descLineCount": 2,
+      "descLineCount": 3,
       "headLineCount": 1,
+      "imageCollection":["74_1.jpg","74_2.jpg"],
       "price": 35,
       "hasChield": true,
       "chields": [
         {
           "id": 1,
-          "name": "(500g)دجاج",
+          "name": "Chicken(500g)",
           "prices": [159]
         },
         {
           "id": 2,
-          "name": "(500g)لحم",
+          "name": "Lamb(500g)",
           "prices": [175]
         },
         {
           "id": 3,
-          "name": "(750g)مشكل",
+          "name": "Mix(750g)",
           "prices": [197]
         }
       ]
@@ -1038,7 +1137,7 @@
     {
       "id": 75,
       "parentId": 8,
-      "name": " مكسرات مشكله و فواكه مجففه",
+      "name": "Assorted Nuts & Dried Fruits",
       "description": "",
       "imageName": "i75_1.png",
       "descLineCount": 1,
@@ -1051,7 +1150,7 @@
     {
       "id": 77,
       "parentId": 8,
-      "name": "بقلاوه ازربيجانيه (3قطع)",
+      "name": "Azəri Pakhlava(3pieces)",
       "description": "",
       "imageName": "i77_1.png",
       "descLineCount": 1,
@@ -1061,7 +1160,5 @@
       "hasChield": false,
       "chields": []
     }
-
-
   ]
 }
