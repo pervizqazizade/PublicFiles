@@ -574,19 +574,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 39,
-      "parentId": 6,
-      "name": "بلوف متنوع",
-      "description": "أعشاب مستورده من ازربيجان\nطلب مسبق\nيقدم مع اللحم والدجاج\nمع اليقطين والكستناء والعنب المجفف والبرباريس\nجيد ل 4 أشخاص 6 أصناف من البلوف أرز",
-      "imageName": "i11_1.png",
-      "imageCollection":["11_1.png"],
-      "descLineCount": 5,
-      "headLineCount": 1,
-      "price": 297,
-      "hasChield": false,
-      "chields": []
-    },
+    
     {
       "id": 40,
       "parentId": 6,
@@ -600,19 +588,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 41,
-      "parentId": 6,
-      "name": "دوشمي بلوف",
-      "description": "طلب مسبق\nجيد لشخصين\nدجاجه كامله متبله تقدم مع الزعفران والأرز",
-      "imageName": "i11_3.png",
-      "imageCollection":["41.jpg"],
-      "descLineCount": 3,
-      "headLineCount": 1,
-      "price": 119,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 42,
       "parentId": 6,
@@ -626,19 +602,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 43,
-      "parentId": 6,
-      "name": "سمك مسحب كوتوم لافنيجي",
-      "description": "طلب مسبق\nجيد لشخصين\nسمكه كامله مع الجوز والبصل والبرقوق والبرباريس \nوالزبده يقدم مع الأرز والأعشاب الازربيجانيه",
-      "imageName": "i11_5.png",
-      "imageCollection":["43.jpeg"],
-      "descLineCount": 4,
-      "headLineCount": 1,
-      "price": 139,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 44,
       "parentId": 4,
@@ -732,19 +696,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 50,
-      "parentId": 6,
-      "name": "تاس كباب،(شولما)",
-      "description": "طلب مسبق\nجيد ل 3 أشخاص\nدجاج عضوى مطبوخ بالحمص والكستناء والبصل والبازلاء والسماق\nيقدم مع أرز بالزعفران",
-      "imageName": "i14_2.png",
-      "imageCollection":["50.jpg"],
-      "descLineCount": 4,
-      "headLineCount": 1,
-      "price": 179,
-      "hasChield": false,
-      "chields": []
-    },
+    
     {
       "id": 51,
       "parentId": 8,

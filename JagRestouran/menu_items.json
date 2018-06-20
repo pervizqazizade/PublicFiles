@@ -577,19 +577,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 39,
-      "parentId": 6,
-      "name": "Assorted Plov",
-      "description": "Preorder.\nGood for 4 people. 6 type of plov, rice with dill \npumpkin, chestnut, barberry, saffron, dry grapes. \nServed with lamb and chicken.Organic Lamb \nImport from Azerbaijan.",
-      "imageName": "i11_1.png",
-      "descLineCount": 5,
-      "headLineCount": 1,
-      "imageCollection":["11_1.png"],
-      "price": 297,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 40,
       "parentId": 6,
@@ -603,19 +591,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 41,
-      "parentId": 6,
-      "name": "Dosheme Plov",
-      "description": "Preorder.\nGood for 2 person. Whole marinated Chicken \nwhite rice, saffron",
-      "imageName": "i11_3.png",
-      "descLineCount": 3,
-      "headLineCount": 1,
-       "imageCollection":["41.jpg"],
-      "price": 119,
-      "hasChield": false,
-      "chields": []
-    },
+    
     {
       "id": 42,
       "parentId": 6,
@@ -629,19 +605,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 43,
-      "parentId": 6,
-      "name": "Sumuysuz Kutum Levengi",
-      "description": "Preorder.\nGood for 2 people. Whole marinated Fish, \nwalnut, onion,plum pure, barberry, butter. \nServed with rice.Organic Fish important \nfrom Azerbaijan",
-      "imageName": "i11_5.png",
-      "descLineCount": 5,
-      "headLineCount": 1,
-      "imageCollection":["43.jpeg"],
-      "price": 139,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 44,
       "parentId": 4,
@@ -735,19 +699,7 @@
       "hasChield": false,
       "chields": []
     },
-    {
-      "id": 50,
-      "parentId": 6,
-      "name": "Tas Kabab (Cholme)",
-      "description": "Preorder.\nGood For 3 person. Organic Chicken Cooked \nwith Chestnut, Peas, Onion, Sumakh Served \nwith Saffron Rice.",
-      "imageName": "i14_2.png",
-      "descLineCount": 4,
-       "imageCollection":["50.jpg"],
-      "headLineCount": 1,
-      "price": 179,
-      "hasChield": false,
-      "chields": []
-    },
+     
     {
       "id": 51,
       "parentId": 8,
