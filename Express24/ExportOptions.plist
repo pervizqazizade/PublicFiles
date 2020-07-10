@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>compileBitcode</key>
-	<false/>
+	<true/>
 	<key>destination</key>
 	<string>export</string>
-	<key>method</key>
-	<string>enterprise</string>
-	<key>provisioningProfiles</key>
+	<key>manifest</key>
 	<dict>
-		<key>com.caspel.mobile.erp</key>
-		<string>iOS Universal</string>
+		<key>appURL</key>
+		<string>https://pervizqazizade.github.io/PublicFiles/Express24/Express24.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://pervizqazizade.github.io/PublicFiles/Express24/57x57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://pervizqazizade.github.io/PublicFiles/Express24/512x512.png</string>
 	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<key>method</key>
+	<string>ad-hoc</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>U9PV77DN45</string>
+	<string>CB9M6WF68Y</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
