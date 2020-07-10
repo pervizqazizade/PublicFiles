@@ -13,11 +13,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+				<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 				<key>dateExpires</key>
-				<string>7/3/21</string>
+				<string>7/5/21</string>
 				<key>type</key>
-				<string>Apple Development</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -30,11 +30,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>AKMaskField.framework</string>
@@ -55,11 +55,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Alamofire.framework</string>
@@ -80,11 +80,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>BiometricAuthentication.framework</string>
@@ -105,11 +105,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CenteredCollectionView.framework</string>
@@ -130,11 +130,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
@@ -155,11 +155,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GTMSessionFetcher.framework</string>
@@ -180,11 +180,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleToolboxForMac.framework</string>
@@ -205,11 +205,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
@@ -230,11 +230,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>L10n_swift.framework</string>
@@ -255,11 +255,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Moya.framework</string>
@@ -280,11 +280,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>PayCardsRecognizer.framework</string>
@@ -305,11 +305,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Protobuf.framework</string>
@@ -330,11 +330,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Result.framework</string>
@@ -355,11 +355,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Rswift.framework</string>
@@ -380,11 +380,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SDWebImage.framework</string>
@@ -405,11 +405,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftReorder.framework</string>
@@ -430,11 +430,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SwipeCellKit.framework</string>
@@ -455,11 +455,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Toast_Swift.framework</string>
@@ -480,11 +480,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>7E389FC000F8E76ED8ABCC6D9D9A1DD680A4C530</string>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
 						<key>dateExpires</key>
-						<string>7/3/21</string>
+						<string>7/5/21</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
@@ -502,20 +502,20 @@
 				<key>application-identifier</key>
 				<string>CB9M6WF68Y.az.expressbank.e24mobile</string>
 				<key>aps-environment</key>
-				<string>development</string>
+				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>CB9M6WF68Y</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>Express24.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>9969f790-40a3-415d-b013-ed502e5ee02a</string>
+				<string>09d1ea29-18d3-447b-88b0-c30f5653160d</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: az.expressbank.e24mobile</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: az.expressbank.e24mobile</string>
 			</dict>
 			<key>team</key>
 			<dict>
