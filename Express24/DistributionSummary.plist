@@ -162,6 +162,56 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>FBSDKCoreKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CB9M6WF68Y</string>
+						<key>name</key>
+						<string>Expressbank OJSC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
+						<key>dateExpires</key>
+						<string>7/5/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FacebookCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>CB9M6WF68Y</string>
+						<key>name</key>
+						<string>Expressbank OJSC</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A34BA6192128D497BE5B57B44E3636248B2243F5</string>
+						<key>dateExpires</key>
+						<string>7/5/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>GTMSessionFetcher.framework</string>
 					<key>team</key>
 					<dict>
