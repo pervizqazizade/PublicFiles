@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://pervizqazizade.github.io/PublicFiles/Express24/Express24.ipa</string>
+		<string>https://pervizqazizade.github.io/PublicFiles/appertech.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://pervizqazizade.github.io/PublicFiles/Express24/57x57.png</string>
+		<string>https://pervizqazizade.github.io/PublicFiles/57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://pervizqazizade.github.io/PublicFiles/Express24/512x512.png</string>
+		<string>https://pervizqazizade.github.io/PublicFile/512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
@@ -22,7 +22,7 @@
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
-	<string>CB9M6WF68Y</string>
+	<string>MX4L636YJC</string>
 	<key>thinning</key>
 	<string>&lt;none&gt;</string>
 </dict>
