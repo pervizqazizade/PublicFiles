@@ -1,0 +1,1270 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="2559" tvg-name="AZAD AZERBAYCAN HD" tvg-logo="http://dreamstarzz.com:8080/images/cb87a6260cd1e6e176e4ec8ef511ae48.png" group-title="AZERBAYCAN",AZAD AZERBAYCAN HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/4.m3u8
+#EXTINF:-1 tvg-id="2134" tvg-name="AZTV" tvg-logo="" group-title="AZERBAYCAN",AZTV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDMAN AZERBAYCAN" tvg-logo="http://dreamstarzz.com:8080/images/c1adbb0cd8c10eafa0f0dec49dd961b9.png" group-title="AZERBAYCAN",IDMAN AZERBAYCAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORT HD" tvg-logo="http://dreamstarzz.com:8080/images/39950fd2f70f2563c6e28c984f40ce28.png" group-title="AZERBAYCAN",CBC SPORT HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV AZERBAYCAN" tvg-logo="http://dreamstarzz.com:8080/images/cd4aa980a0710c307cc03cdc91f176a4.png" group-title="AZERBAYCAN",MTV AZERBAYCAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMSTAR TV" tvg-logo="http://dreamstarzz.com:8080/images/d18b97df3afc51d805e6167ebbd83e7c.png" group-title="AZERBAYCAN",DREAMSTAR TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDENIYYET TV" tvg-logo="https://picon.ml/medeniyyet.png" group-title="AZERBAYCAN",MEDENIYYET TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB GUNES HD" tvg-logo="" group-title="AZERBAYCAN",ARB GUNES HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB  HD" tvg-logo="http://dreamstarzz.com:8080/images/8a0f34ff1704b41be19c118566e07c7f.png" group-title="AZERBAYCAN",ARB  HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XEZER TV" tvg-logo="http://dreamstarzz.com:8080/images/8308e5805c5788fa96a97b33e0cacef1.png" group-title="AZERBAYCAN",XEZER TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARB24 HD" tvg-logo="http://dreamstarzz.com:8080/images/1a6628ac980a584a13829e04eaefafb5.png" group-title="AZERBAYCAN",ARB24 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HADI TV AZERI" tvg-logo="http://dreamstarzz.com:8080/images/220bc467081b35fbc82cfd5608d1c217.png" group-title="AZERBAYCAN",HADI TV AZERI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ICTIMAI TV HD" tvg-logo="http://dreamstarzz.com:8080/images/f6a557fbee9ab6c9ac91565e04561ce0.png" group-title="AZERBAYCAN",ICTIMAI TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVPLUSAZ TV" tvg-logo="blob:https://web.whatsapp.com/dbf58e10-9966-4a8c-9e68-7c6975f6e908" group-title="AZERBAYCAN",TVPLUSAZ TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/868.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC TV HD" tvg-logo="http://dreamstarzz.com:8080/images/e5f254b4142fdceab25443193c6f58b8.png" group-title="AZERBAYCAN",CBC TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEHIYYETV" tvg-logo="http://dreamstarzz.com:8080/images/35d635ac1488467b96afb007309d6331.png" group-title="AZERBAYCAN",SEHIYYETV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA TV" tvg-logo="" group-title="AZERBAYCAN",DUNYA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GUNAZ TV HD" tvg-logo="http://dreamstarzz.com:8080/images/0ec2f0bb5d7e9874484acc84e4486e6b.png" group-title="AZERBAYCAN",GUNAZ TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPACE TV" tvg-logo="https://spacetv.az/wp-content/uploads/2021/10/png-1024-1.png" group-title="AZERBAYCAN",SPACE TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C MUZIK" tvg-logo="" group-title="AZERBAYCAN",C MUZIK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="http://dreamstarzz.com:8080/images/a97aa60199e5d86d71ab61c451001274.png" group-title="AZERBAYCAN",KANAL S
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL TV" tvg-logo="http://dreamstarzz.com:8080/images/328a14c65579b3fa49cf163b7b13b79d.png" group-title="AZERBAYCAN",REAL TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMB AZ" tvg-logo="https://tmb.az/wp-content/uploads/2022/05/transparent.png" group-title="AZERBAYCAN",TMB AZ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AN.T" tvg-logo="https://secure.gravatar.com/avatar/759a51d611de004ee2673c5bb81c2834?s=180&d=mm&r=g" group-title="AZERBAYCAN",AN.T
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAXCIVAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/31/Nax%C3%A7%C4%B1van_Televiziyas%C4%B1_loqosu.png" group-title="AZERBAYCAN INTERNET TV",NAXCIVAN TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 35 NAXCIVAN" tvg-logo="https://live.ntv.az/kanal35.png" group-title="AZERBAYCAN INTERNET TV",KANAL 35 NAXCIVAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KEPEZ TV (GENCE)" tvg-logo="https://1.bp.blogspot.com/-jNwYVTlGUY4/Xd0PEJUwbpI/AAAAAAAADg0/AYgxWSSjZM4fIcwC3M_G7gWRnKLFxFGXQCLcBGAsYHQ/s200/arb-kepez-%2Btv-azerbaycan.png" group-title="AZERBAYCAN INTERNET TV",KEPEZ TV (GENCE)
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELTV (YEVLAX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/EL_TV_%282020-h.h.%29.png" group-title="AZERBAYCAN INTERNET TV",ELTV (YEVLAX)
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN CHANNEL TV (MINGECEVIR)" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/9/9d/Alvin_Channel_-_logo.png/revision/latest?cb=20221212161124" group-title="AZERBAYCAN INTERNET TV",ALVIN CHANNEL TV (MINGECEVIR)
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QAFQAZ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="AZERBAYCAN INTERNET TV",QAFQAZ TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAKUTV FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/Baku_Tv.png" group-title="AZERBAYCAN INTERNET TV",BAKUTV FHD 1080
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="APA TV" tvg-logo="https://news.unec.edu.az/images/cwgallery/3585_c1387fd31ecf9f4be5020e6e7b40be64.png" group-title="AZERBAYCAN INTERNET TV",APA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VASTOK TV" tvg-logo="https://picon.ml/vostok-tv.png" group-title="AZERBAYCAN INTERNET TV",VASTOK TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEMAZ TV" tvg-logo="https://mrtv.me/wp-content/uploads/2022/07/Gem-AZ.jpg" group-title="AZERBAYCAN INTERNET TV",GEMAZ TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="106.3FM" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",106.3FM
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONUL TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN5dRKcozIdRrXXGmkNyb_uPOLSbyXGHurBLVi4QA=s900-c-k-c0x00ffffff-no-rj" group-title="AZERBAYCAN INTERNET TV",KONUL TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",FTV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UMID TV HD" tvg-logo="https://3.bp.blogspot.com/-ml6cJAWtKg8/Xw2CwinHliI/AAAAAAAAEOs/r6Fk_orVhBUutVaM-NDq-iO0UJt5uuY9QCLcBGAsYHQ/w680/umid-tv-azerbaycan.png" group-title="AZERBAYCAN INTERNET TV",UMID TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOWPLUS TV" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",SHOWPLUS TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ STAR TV" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",AZ STAR TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVETV" tvg-logo="https://4.bp.blogspot.com/-bwYVlP50Yfw/Xek1F_L8IkI/AAAAAAAADpc/8S00aHDvETEcatq_icjxcEWXyrYzuPL3gCLcBGAsYHQ/s1600/livetv-az-tv.png" group-title="AZERBAYCAN INTERNET TV",LIVETV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAHRA TV" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",AL ZAHRA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QEBELE TV" tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639501731_qebele-radio-big-radio_org.png" group-title="AZERBAYCAN INTERNET TV",QEBELE TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP AZERBAYCAN" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",VIP AZERBAYCAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV AZERBAYCAN" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",AGRO TV AZERBAYCAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL ON4" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",KANAL ON4
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZAD SOZ TV" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",AZAD SOZ TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEFTCI TV SAAT 12:00" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",NEFTCI TV SAAT 12:00
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL15 AZ" tvg-logo="" group-title="AZERBAYCAN INTERNET TV",KANAL15 AZ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/812.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="Первый кaнaл HD" tvg-logo="" group-title="RUSİYA",Первый кaнaл HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТB HD" tvg-logo="" group-title="RUSİYA",НТB HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТВ МИР" tvg-logo="" group-title="RUSİYA",НТВ МИР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТB Право" tvg-logo="" group-title="RUSİYA",НТB Право
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТB Сериал" tvg-logo="" group-title="RUSİYA",НТB Сериал
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТB Стиль" tvg-logo="" group-title="RUSİYA",НТB Стиль
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТB Хит HD" tvg-logo="" group-title="RUSİYA",НТB Хит HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Звездa HD" tvg-logo="" group-title="RUSİYA",Звездa HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Звездa Плюс HD" tvg-logo="" group-title="RUSİYA",Звездa Плюс HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Перец International" tvg-logo="" group-title="RUSİYA",Перец International
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТС HD" tvg-logo="" group-title="RUSİYA",СТС HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТС Love" tvg-logo="" group-title="RUSİYA",СТС Love
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НОВЫЙ МИР" tvg-logo="" group-title="RUSİYA",НОВЫЙ МИР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Домашний HD" tvg-logo="" group-title="RUSİYA",Домашний HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Красная линия" tvg-logo="" group-title="RUSİYA",Красная линия
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/80.m3u8
+#EXTINF:-1 tvg-id="2275" tvg-name="Мир Сериала" tvg-logo="" group-title="RUSİYA",Мир Сериала
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mосква Доверие" tvg-logo="" group-title="RUSİYA",Mосква Доверие
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Время" tvg-logo="" group-title="RUSİYA",Время
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="День Победы HD" tvg-logo="" group-title="RUSİYA",День Победы HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КВН ТВ" tvg-logo="" group-title="RUSİYA",КВН ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ОТР" tvg-logo="" group-title="RUSİYA",ОТР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Пятый канал" tvg-logo="" group-title="RUSİYA",Пятый канал
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Суббота HD" tvg-logo="" group-title="RUSİYA",Суббота HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEН TB HD" tvg-logo="" group-title="RUSİYA",PEН TB HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Роccия 1 HD" tvg-logo="" group-title="RUSİYA",Роccия 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Т24" tvg-logo="" group-title="RUSİYA",Т24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="RUSİYA",ТВ3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="RUSİYA",ТВЦ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/53.m3u8
+#EXTINF:-1 tvg-id="353" tvg-name="ТНТ HD" tvg-logo="" group-title="RUSİYA",ТНТ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/48.m3u8
+#EXTINF:-1 tvg-id="1649" tvg-name="ТНТ4 HD" tvg-logo="" group-title="RUSİYA",ТНТ4 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Че" tvg-logo="" group-title="RUSİYA",Че
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ю ТВ" tvg-logo="" group-title="RUSİYA",Ю ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/62.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Любимое Кино" tvg-logo="" group-title="RUSİYA",Любимое Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="КРЫМ 24" tvg-logo="" group-title="RUSİYA",КРЫМ 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мир HD" tvg-logo="" group-title="RUSİYA",Мир HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Москвa 24" tvg-logo="" group-title="RUSİYA",Москвa 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PБK" tvg-logo="" group-title="RUSİYA",PБK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Poccия 24" tvg-logo="" group-title="RUSİYA",Poccия 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360" tvg-logo="" group-title="RUSİYA",360
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ВОПРОСЫ ОТВЕТЫ" tvg-logo="" group-title="RUSİYA",ВОПРОСЫ ОТВЕТЫ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русская Комедия" tvg-logo="" group-title="RUSİYA",Русская Комедия
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский бестселлер" tvg-logo="" group-title="RUSİYA",Русский бестселлер
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский детектив" tvg-logo="" group-title="RUSİYA",Русский детектив
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский Иллюзион HD" tvg-logo="" group-title="RUSİYA",Русский Иллюзион HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Русский роман HD" tvg-logo="" group-title="RUSİYA",Русский роман HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Санкт-Петербург HD" tvg-logo="" group-title="RUSİYA",Санкт-Петербург HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UZ Ералаш ТВ HD" tvg-logo="" group-title="RUSİYA",UZ Ералаш ТВ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ералаш HD" tvg-logo="" group-title="RUSİYA",Ералаш HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMEDIA 1 HD" tvg-logo="" group-title="RUSİYA",AMEDIA 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMEDIA 2 HD" tvg-logo="" group-title="RUSİYA",AMEDIA 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMEDIA HIT" tvg-logo="" group-title="RUSİYA",AMEDIA HIT
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Premium HD" tvg-logo="" group-title="RUSİYA",Amedia Premium HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кино ТВ HD" tvg-logo="" group-title="RUSİYA",Кино ТВ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинохит HD" tvg-logo="" group-title="RUSİYA",Кинохит HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="RUSİYA",Киномикс HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="RUSİYA",Киносемья HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="RUSİYA",Киносерия HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kинocвиданиe HD" tvg-logo="" group-title="RUSİYA",Kинocвиданиe HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="RUSİYA",Кинокомедия
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="RUSİYA",Кинопремьера HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Киноужас HD" tvg-logo="" group-title="RUSİYA",Киноужас HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Индийское Кино" tvg-logo="" group-title="RUSİYA",Индийское Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мужское Кино HD" tvg-logo="" group-title="RUSİYA",Мужское Кино HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино" tvg-logo="" group-title="RUSİYA",Дом Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="RUSİYA",Дом Кино Премиум HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Родное Кино" tvg-logo="" group-title="RUSİYA",Родное Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 Action HD" tvg-logo="" group-title="RUSİYA",Viju TV1000 Action HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 HD" tvg-logo="" group-title="RUSİYA",Viju TV1000 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju TV1000 Русское HD" tvg-logo="" group-title="RUSİYA",Viju TV1000 Русское HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="RUSİYA",Viju+ Comedy HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Megahit HD" tvg-logo="" group-title="RUSİYA",Viju+ Megahit HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Premiere HD" tvg-logo="" group-title="RUSİYA",Viju+ Premiere HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju+ Serial HD" tvg-logo="" group-title="RUSİYA",Viju+ Serial HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кино 1 International" tvg-logo="" group-title="RUSİYA",Кино 1 International
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинозал! СССР" tvg-logo="" group-title="RUSİYA",Кинозал! СССР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кинопоказ HD" tvg-logo="" group-title="RUSİYA",Кинопоказ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НСТ" tvg-logo="" group-title="RUSİYA",НСТ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="RUSİYA",Еврокино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/151.m3u8
+#EXTINF:-1 tvg-id="2402" tvg-name="РЕТРО ТВ" tvg-logo="" group-title="RUSİYA",РЕТРО ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA" tvg-logo="" group-title="RUSİYA",CINEMA
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ИНДИЯ ТВ" tvg-logo="" group-title="RUSİYA",ИНДИЯ ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наш Кинопоказ HD" tvg-logo="" group-title="RUSİYA",Наш Кинопоказ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наше Мужское HD" tvg-logo="" group-title="RUSİYA",Наше Мужское HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Наше Новое Кино HD" tvg-logo="" group-title="RUSİYA",Наше Новое Кино HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/104.m3u8
+#EXTINF:-1 tvg-id="935" tvg-name=".black" tvg-logo="" group-title="RUSİYA",.black
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=".red HD" tvg-logo="" group-title="RUSİYA",.red HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/179.m3u8
+#EXTINF:-1 tvg-id="516" tvg-name=".sci-fi" tvg-logo="" group-title="RUSİYA",.sci-fi
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BCU СССР HD" tvg-logo="" group-title="RUSİYA",BCU СССР HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/84.m3u8
+#EXTINF:-1 tvg-id="1395" tvg-name="Bollywood HD" tvg-logo="" group-title="RUSİYA",Bollywood HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="RUSİYA",Fox HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="RUSİYA",FOX LIFE HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="RUSİYA",Hollywood HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTVI" tvg-logo="" group-title="RUSİYA",RTVI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Cinema" tvg-logo="" group-title="RUSİYA",Star Cinema
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="START World" tvg-logo="" group-title="RUSİYA",START World
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Феникс плюс Кино" tvg-logo="" group-title="RUSİYA",Феникс плюс Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="RUSİYA",Animal Planet HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/203.m3u8
+#EXTINF:-1 tvg-id="325" tvg-name="Discovery Channel HD" tvg-logo="" group-title="RUSİYA",Discovery Channel HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="RUSİYA",Discovery Science HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Explore HD" tvg-logo="" group-title="RUSİYA",Viju Explore HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju Nature HD" tvg-logo="" group-title="RUSİYA",Viju Nature HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HDL HD" tvg-logo="" group-title="RUSİYA",HDL HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 1" tvg-logo="" group-title="RUSİYA",HISTORY 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIYA 2" tvg-logo="" group-title="RUSİYA",HISTORIYA 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="RUSİYA",Investigation Discovery HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="RUSİYA",Nat Geo Wild HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="RUSİYA",National Geographic HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="RUSİYA",TLC HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Конный Мир" tvg-logo="" group-title="RUSİYA",Конный Мир
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viju History HD" tvg-logo="" group-title="RUSİYA",Viju History HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1КРЫМ" tvg-logo="" group-title="RUSİYA",1КРЫМ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/718.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="2x2" tvg-logo="" group-title="RUSİYA",2x2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="365 ТВ" tvg-logo="" group-title="RUSİYA",365 ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ani" tvg-logo="" group-title="RUSİYA",Ani
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BackusTV Dark" tvg-logo="" group-title="RUSİYA",BackusTV Dark
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="RUSİYA",Cartoon Network
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAVINCI" tvg-logo="" group-title="RUSİYA",DAVINCI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="" group-title="RUSİYA",DTX
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Россия" tvg-logo="" group-title="RUSİYA",Euronews Россия
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FAN" tvg-logo="" group-title="RUSİYA",FAN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MM UFO HD" tvg-logo="" group-title="RUSİYA",MM UFO HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Tv HD" tvg-logo="" group-title="RUSİYA",Galaxy Tv HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jim Jam" tvg-logo="" group-title="RUSİYA",Jim Jam
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUXURY" tvg-logo="" group-title="RUSİYA",LUXURY
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="RUSİYA",Nick Jr
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="RUSİYA",Nickelodeon
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tiji TV" tvg-logo="" group-title="RUSİYA",Tiji TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RUS" tvg-logo="" group-title="RUSİYA",TV RUS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV XXI" tvg-logo="" group-title="RUSİYA",TV XXI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UZ Tom and Jerry HD" tvg-logo="" group-title="RUSİYA",UZ Tom and Jerry HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT KINO ACTION HD" tvg-logo="" group-title="RUSİYA",VIASAT KINO ACTION HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Арсенал HD" tvg-logo="" group-title="RUSİYA",Арсенал HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Блокбастер HD" tvg-logo="" group-title="RUSİYA",Блокбастер HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="БСТ" tvg-logo="" group-title="RUSİYA",БСТ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Детский мир" tvg-logo="" group-title="RUSİYA",Детский мир
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/189.m3u8
+#EXTINF:-1 tvg-id="2483" tvg-name="Дикая охота HD" tvg-logo="" group-title="RUSİYA",Дикая охота HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дикая рыбалка HD" tvg-logo="" group-title="RUSİYA",Дикая рыбалка HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/214.m3u8
+#EXTINF:-1 tvg-id="2283" tvg-name="Дикий" tvg-logo="" group-title="RUSİYA",Дикий
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дождь" tvg-logo="" group-title="RUSİYA",Дождь
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЗОО ТВ" tvg-logo="" group-title="RUSİYA",ЗОО ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Зоопарк" tvg-logo="" group-title="RUSİYA",Зоопарк
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Извеcтия HD" tvg-logo="" group-title="RUSİYA",Извеcтия HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Капитан Фантастика" tvg-logo="" group-title="RUSİYA",Капитан Фантастика
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Карусель" tvg-logo="" group-title="RUSİYA",Карусель
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кто есть кто" tvg-logo="" group-title="RUSİYA",Кто есть кто
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="RUSİYA",Кухня ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="RUSİYA",Мосфильм. Золотая коллекция
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="МУЖСКОЙ ТВ" tvg-logo="" group-title="RUSİYA",МУЖСКОЙ ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Мульт HD" tvg-logo="" group-title="RUSİYA",Мульт HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="НТК" tvg-logo="" group-title="RUSİYA",НТК
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Оружие" tvg-logo="" group-title="RUSİYA",Оружие
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Остросюжетное HD" tvg-logo="" group-title="RUSİYA",Остросюжетное HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Охота и рыбалка" tvg-logo="" group-title="RUSİYA",Охота и рыбалка
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Планета HD" tvg-logo="" group-title="RUSİYA",Планета HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Побeда" tvg-logo="" group-title="RUSİYA",Побeда
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Премиальнoе HD" tvg-logo="" group-title="RUSİYA",Премиальнoе HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Про Любовь HD" tvg-logo="" group-title="RUSİYA",Про Любовь HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/858.m3u8
+#EXTINF:-1 tvg-id="1003" tvg-name="Пятница! HD" tvg-logo="https://www.sostav.ru/app/public/images/news/2013/05/17/logo_FRIDAY_big_white.jpg" group-title="RUSİYA",Пятница! HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Романтичное HD" tvg-logo="" group-title="RUSİYA",Романтичное HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/857.m3u8
+#EXTINF:-1 tvg-id="6772" tvg-name="РТР Планета Европа" tvg-logo="" group-title="RUSİYA",РТР Планета Европа
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="РЫШИЙ ТВ" tvg-logo="" group-title="RUSİYA",РЫШИЙ ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Сарафан" tvg-logo="" group-title="RUSİYA",Сарафан
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СМАЙЛИК ТВ" tvg-logo="" group-title="RUSİYA",СМАЙЛИК ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СОЮЗ" tvg-logo="" group-title="RUSİYA",СОЮЗ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТС Kids HD" tvg-logo="" group-title="RUSİYA",СТС Kids HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Телекафе" tvg-logo="" group-title="RUSİYA",Телекафе
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Уникум HD" tvg-logo="" group-title="RUSİYA",Уникум HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Хит HD" tvg-logo="" group-title="RUSİYA",Хит HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF КВН" tvg-logo="" group-title="RUSİYA",VF КВН
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Шокирующее HD" tvg-logo="" group-title="RUSİYA",Шокирующее HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="" group-title="RUSİYA",Travel Channel HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" tvg-logo="" group-title="RUSİYA",Travel+Adventure
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Приключения HD" tvg-logo="" group-title="RUSİYA",Приключения HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST Films HD" tvg-logo="" group-title="RUSIYA-2",BEST Films HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX Oscar HD" tvg-logo="" group-title="RUSIYA-2",BOX Oscar HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX Serial HD" tvg-logo="" group-title="RUSIYA-2",BOX Serial HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMan Marvel" tvg-logo="" group-title="RUSIYA-2",CineMan Marvel
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMan РуКино" tvg-logo="" group-title="RUSIYA-2",CineMan РуКино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ЗАЛ 1" tvg-logo="" group-title="RUSIYA-2",ЗАЛ 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eye Western HD" tvg-logo="" group-title="RUSIYA-2",Eye Western HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eye Media HD" tvg-logo="" group-title="RUSIYA-2",Eye Media HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOX Gangster HD" tvg-logo="" group-title="RUSIYA-2",BOX Gangster HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Cinema" tvg-logo="" group-title="RUSIYA-2",Fresh Cinema
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Comedy" tvg-logo="" group-title="RUSIYA-2",Fresh Comedy
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Family" tvg-logo="" group-title="RUSIYA-2",Fresh Family
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Premiere" tvg-logo="" group-title="RUSIYA-2",Fresh Premiere
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Soviet" tvg-logo="" group-title="RUSIYA-2",Fresh Soviet
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBC-Newfilm" tvg-logo="" group-title="RUSIYA-2",KBC-Newfilm
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBC-Страна СССР" tvg-logo="" group-title="RUSIYA-2",KBC-Страна СССР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KLI Netflix HD" tvg-logo="" group-title="RUSIYA-2",KLI Netflix HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic Karate HD" tvg-logo="" group-title="RUSIYA-2",Magic Karate HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic VHS HD" tvg-logo="" group-title="RUSIYA-2",Magic VHS HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MM Tom and Jerry HD" tvg-logo="" group-title="RUSIYA-2",MM Tom and Jerry HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR 1941-1945 HD" tvg-logo="" group-title="RUSIYA-2",MM USSR 1941-1945 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MM USSR Детектив HD" tvg-logo="" group-title="RUSIYA-2",MM USSR Детектив HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prokop TV Netflix" tvg-logo="" group-title="RUSIYA-2",Prokop TV Netflix
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY HIGH HEROES HD" tvg-logo="" group-title="RUSIYA-2",SKY HIGH HEROES HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY HIGH RUSSIAN HD" tvg-logo="" group-title="RUSIYA-2",SKY HIGH RUSSIAN HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP BUDO HD" tvg-logo="" group-title="RUSIYA-2",TOP BUDO HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP Cinema HD" tvg-logo="" group-title="RUSIYA-2",TOP Cinema HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP MIX HD" tvg-logo="" group-title="RUSIYA-2",TOP MIX HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP USSR HD" tvg-logo="" group-title="RUSIYA-2",TOP USSR HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRASH CINEMA" tvg-logo="" group-title="RUSIYA-2",TRASH CINEMA
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UZ Kino1 HD" tvg-logo="" group-title="RUSIYA-2",UZ Kino1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Netflix" tvg-logo="" group-title="RUSIYA-2",VF Netflix
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF TOP Series" tvg-logo="" group-title="RUSIYA-2",VF TOP Series
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Рыбалка" tvg-logo="" group-title="RUSIYA-2",VF Рыбалка
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Индия" tvg-logo="" group-title="RUSIYA-2",VF Индия
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Мосфильм" tvg-logo="" group-title="RUSIYA-2",VF Мосфильм
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Солдаты" tvg-logo="" group-title="RUSIYA-2",VF Солдаты
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Ужасы" tvg-logo="" group-title="RUSIYA-2",VF Ужасы
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Ужасы VHS" tvg-logo="" group-title="RUSIYA-2",VF Ужасы VHS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VF Фильмы СССР" tvg-logo="" group-title="RUSIYA-2",VF Фильмы СССР
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Grand" tvg-logo="" group-title="RUSIYA-2",Yosso TV Grand
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Netflix" tvg-logo="" group-title="RUSIYA-2",Yosso TV Netflix
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV New Кино" tvg-logo="" group-title="RUSIYA-2",Yosso TV New Кино
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV VHS" tvg-logo="" group-title="RUSIYA-2",Yosso TV VHS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Русские Фильмы" tvg-logo="" group-title="RUSIYA-2",Yosso TV Русские Фильмы
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Советские Фильмы" tvg-logo="" group-title="RUSIYA-2",Yosso TV Советские Фильмы
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Трагичное" tvg-logo="" group-title="RUSIYA-2",Yosso TV Трагичное
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Z! Comedy HD" tvg-logo="" group-title="RUSIYA-2",Z! Comedy HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Z! Crime HD" tvg-logo="" group-title="RUSIYA-2",Z! Crime HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Дорама ТВ HD" tvg-logo="" group-title="RUSIYA-2",Дорама ТВ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shot Tv" tvg-logo="" group-title="RUSIYA-2",Shot Tv
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/448.m3u8
+#EXTINF:-1 tvg-id="4466" tvg-name="KinoJam 1 HD" tvg-logo="" group-title="RUSİYA-3",KinoJam 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/885.m3u8
+#EXTINF:-1 tvg-id="4467" tvg-name="KinoJam 2 HD" tvg-logo="" group-title="RUSİYA-3",KinoJam 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Disney" tvg-logo="" group-title="RUSİYA-3",Yosso TV Disney
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yosso TV Best" tvg-logo="" group-title="RUSİYA-3",Yosso TV Best
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dosug TV Comedy HD" tvg-logo="" group-title="RUSİYA-3",Dosug TV Comedy HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dosug TV Fantastic HD" tvg-logo="" group-title="RUSİYA-3",Dosug TV Fantastic HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fresh Russian" tvg-logo="" group-title="RUSİYA-3",Fresh Russian
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP 80 S HD" tvg-logo="" group-title="RUSİYA-3",TOP 80 S HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kinoshka Russian HD" tvg-logo="" group-title="RUSİYA-3",Kinoshka Russian HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kinoshka Action HD" tvg-logo="" group-title="RUSİYA-3",Kinoshka Action HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BCU RUSSIA HD" tvg-logo="" group-title="RUSİYA-3",BCU RUSSIA HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BCU RuSerial HD" tvg-logo="" group-title="RUSİYA-3",BCU RuSerial HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY HIGH VHS UHD" tvg-logo="" group-title="RUSİYA-3",SKY HIGH VHS UHD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY HIGH DOCUHD" tvg-logo="" group-title="RUSİYA-3",SKY HIGH DOCUHD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBC-Premium" tvg-logo="" group-title="RUSİYA-3",KBC-Premium
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBC-Elite comedys" tvg-logo="" group-title="RUSİYA-3",KBC-Elite comedys
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UZ TV HD" tvg-logo="" group-title="RUSİYA-3",UZ TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1026.m3u8
+#EXTINF:-1 tvg-id="5470" tvg-name="КИНО PREMIERE" tvg-logo="" group-title="RUSİYA-3",КИНО PREMIERE
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Квартал ТВ" tvg-logo="" group-title="UKRAYNA",Квартал ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Интер" tvg-logo="" group-title="UKRAYNA",Интер
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter-фільм" tvg-logo="" group-title="UKRAYNA",Enter-фільм
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="" group-title="UKRAYNA",Epic Drama
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1+1" tvg-logo="" group-title="UKRAYNA",1+1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EU" tvg-logo="" group-title="UKRAYNA",EU
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA HD" tvg-logo="" group-title="UKRAYNA",CINEMA HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="БОЛТ ТВ" tvg-logo="" group-title="UKRAYNA",БОЛТ ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8 CHANNEL" tvg-logo="" group-title="UKRAYNA",8 CHANNEL
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4EVER MUSIC" tvg-logo="" group-title="UKRAYNA",4EVER MUSIC
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UA TV" tvg-logo="" group-title="UKRAYNA",UA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BELARUSIYA 24" tvg-logo="" group-title="BELARUSİYA",BELARUSIYA 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BELARUSIYA 1" tvg-logo="" group-title="BELARUSİYA",BELARUSIYA 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BELARUSIYA 2" tvg-logo="" group-title="BELARUSİYA",BELARUSIYA 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BELARUSIYA 3" tvg-logo="" group-title="BELARUSİYA",BELARUSIYA 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BELARUSIYA 5" tvg-logo="" group-title="BELARUSİYA",BELARUSIYA 5
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="БЕЛРОС" tvg-logo="" group-title="BELARUSİYA",БЕЛРОС
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч ТВ HD" tvg-logo="" group-title="VIP SPOR",Матч ТВ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="VIP SPOR",Матч! Премьер HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Игра HD" tvg-logo="" group-title="VIP SPOR",Матч! Игра HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Арена HD" tvg-logo="" group-title="VIP SPOR",Матч! Арена HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Страна HD" tvg-logo="" group-title="VIP SPOR",Матч! Страна HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Планета" tvg-logo="" group-title="VIP SPOR",Матч! Планета
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Боец HD" tvg-logo="" group-title="VIP SPOR",Матч! Боец HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 1 HD" tvg-logo="" group-title="VIP SPOR",Матч! Футбол 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 2 HD" tvg-logo="" group-title="VIP SPOR",Матч! Футбол 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Матч! Футбол 3 HD" tvg-logo="" group-title="VIP SPOR",Матч! Футбол 3 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS UK HD" tvg-logo="" group-title="VIP SPOR",SETANTA SPORTS UK HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS 1 RU" tvg-logo="" group-title="VIP SPOR",SETANTA SPORTS 1 RU
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS 2 RU" tvg-logo="" group-title="VIP SPOR",SETANTA SPORTS 2 RU
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Ukraine Plus HD" tvg-logo="" group-title="VIP SPOR",Setanta Ukraine Plus HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS  3 UK" tvg-logo="" group-title="VIP SPOR",SETANTA SPORTS  3 UK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA-TV.com" tvg-logo="" group-title="VIP SPOR",MMA-TV.com
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Бокс ТВ HD" tvg-logo="" group-title="VIP SPOR",Бокс ТВ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="VIP SPOR",Eurosport 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="VIP SPOR",Eurosport 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="VIP SPOR",Авто Плюс
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="УДАР ТВ" tvg-logo="" group-title="VIP SPOR",УДАР ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Авто 24" tvg-logo="" group-title="VIP SPOR",Авто 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KHL HD" tvg-logo="" group-title="VIP SPOR",KHL HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TURKMENSPOR" tvg-logo="" group-title="VIP SPOR",TURKMENSPOR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIJU SPORT" tvg-logo="" group-title="VIP SPOR",VIJU SPORT
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="СТАРТ ТВ" tvg-logo="" group-title="VIP SPOR",СТАРТ ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM SPOR" tvg-logo="" group-title="VIP SPOR",DREAM SPOR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Моторспорт ТВ" tvg-logo="" group-title="VIP SPOR",Моторспорт ТВ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Футбол" tvg-logo="" group-title="VIP SPOR",Футбол
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1" tvg-logo="" group-title="TR SPOR",TIVIBUSPOR 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2" tvg-logo="" group-title="TR SPOR",TIVIBUSPOR 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3" tvg-logo="" group-title="TR SPOR",TIVIBUSPOR 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 4" tvg-logo="" group-title="TR SPOR",TIVIBUSPOR 4
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="TR SPOR",A SPOR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="TR SPOR",TRT SPOR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="TR SPOR",TRT SPOR YILDIZ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FB TV HD" tvg-logo="" group-title="TR SPOR",FB TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="TR SPOR",NBA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GALATASARAY TV" tvg-logo="" group-title="TR SPOR",GALATASARAY TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD TURK" tvg-logo="" group-title="TR SPOR",EUROSPORT 1 FHD TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/752.m3u8
+#EXTINF:-1 tvg-id="2598" tvg-name="TRT 1" tvg-logo="" group-title="TÜRKİYE",TRT 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT2" tvg-logo="" group-title="TÜRKİYE",TRT2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK" tvg-logo="" group-title="TÜRKİYE",TRT TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT AVAZ" tvg-logo="" group-title="TÜRKİYE",TRT AVAZ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK" tvg-logo="" group-title="TÜRKİYE",TRT MUZIK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR TV HD" tvg-logo="" group-title="TÜRKİYE",STAR TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="" group-title="TÜRKİYE",EURO STAR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="TÜRKİYE",KANAL D
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo="" group-title="TÜRKİYE",EURO D
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/294.m3u8
+#EXTINF:-1 tvg-id="SHOWTVT" tvg-name="SHOW TV HD" tvg-logo="" group-title="TÜRKİYE",SHOW TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX TV" tvg-logo="" group-title="TÜRKİYE",SHOWMAX TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="TÜRKİYE",ATV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="" group-title="TÜRKİYE",A2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX TV" tvg-logo="" group-title="TÜRKİYE",FOX TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="TÜRKİYE",TV8
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8.5" tvg-logo="" group-title="TÜRKİYE",TV8.5
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8 INT" tvg-logo="" group-title="TÜRKİYE",TV8 INT
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="TÜRKİYE",BEYAZ TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEVE2" tvg-logo="" group-title="TÜRKİYE",TEVE2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="TÜRKİYE",KANAL 7
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA" tvg-logo="" group-title="TÜRKİYE",KANAL 7 AVRUPA
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="TÜRKİYE",BLOOMBERG HT
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER TURK" tvg-logo="" group-title="TÜRKİYE",HABER TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="TÜRKİYE",TGRT HABER
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="TÜRKİYE",CNN TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 24" tvg-logo="" group-title="TÜRKİYE",KANAL 24
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="TÜRKİYE",NTV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC TV" tvg-logo="" group-title="TÜRKİYE",TLC TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULKE TV" tvg-logo="" group-title="TÜRKİYE",ULKE TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="" group-title="TÜRKİYE",BIR TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="TÜRKİYE",A HABER
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="TÜRKİYE",360 TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER 61" tvg-logo="" group-title="TÜRKİYE",HABER 61
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL TV" tvg-logo="" group-title="TÜRKİYE",HABER GLOBAL TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP" tvg-logo="" group-title="TÜRKİYE",KRAL POP
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="" group-title="TÜRKİYE",NR1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 ASK" tvg-logo="" group-title="TÜRKİYE",NR1 ASK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 DAMAR" tvg-logo="" group-title="TÜRKİYE",NR1 DAMAR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 DANCE" tvg-logo="" group-title="TÜRKİYE",NR1 DANCE
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWERTURK" tvg-logo="" group-title="TÜRKİYE",POWERTURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="" group-title="TÜRKİYE",POWER LOVE
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER HITS" tvg-logo="" group-title="TÜRKİYE",POWER HITS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="TÜRKİYE",TATLISES TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYMUSIC" tvg-logo="" group-title="TÜRKİYE",PLAYMUSIC
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK SLOW" tvg-logo="" group-title="TÜRKİYE",POWER TURK SLOW
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A PARA" tvg-logo="" group-title="TÜRKİYE",A PARA
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="TÜRKİYE",NTV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/928.m3u8
+#EXTINF:-1 tvg-id="382" tvg-name="DREAM TURK" tvg-logo="" group-title="TÜRKİYE",DREAM TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN IZ HD" tvg-logo="" group-title="TR BELGESEL",BEIN IZ HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN GRUME HD" tvg-logo="" group-title="TR BELGESEL",BEIN GRUME HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="TR BELGESEL",TRT BELGESEL
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="TR BELGESEL",TGRT BELGESEL
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE HD" tvg-logo="" group-title="TR BELGESEL",LOVE NATURE HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YABAN TV HD" tvg-logo="" group-title="TR BELGESEL",YABAN TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic TR" tvg-logo="" group-title="TR BELGESEL",National Geographic TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH TR" tvg-logo="" group-title="TR BELGESEL",BBC EARTH TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel TR" tvg-logo="" group-title="TR BELGESEL",Discovery Channel TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science TR" tvg-logo="" group-title="TR BELGESEL",Discovery Science TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="TR BELGESEL",HISTORY HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT HISTORY" tvg-logo="" group-title="TR BELGESEL",VIASAT HISTORY
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN H&E [FHD]" tvg-logo="" group-title="TR BELGESEL",beIN H&E [FHD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarih TV [RAW]" tvg-logo="" group-title="TR BELGESEL",Tarih TV [RAW]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bizim Ev [RAW]" tvg-logo="" group-title="TR BELGESEL",Bizim Ev [RAW]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV [FHD]" tvg-logo="" group-title="TR BELGESEL",Nasa TV [FHD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOCUAX LIFE" tvg-logo="" group-title="TR BELGESEL",DOCUAX LIFE
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOCUAX EARTH" tvg-logo="" group-title="TR BELGESEL",DOCUAX EARTH
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOCUAX WAR" tvg-logo="" group-title="TR BELGESEL",DOCUAX WAR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK" tvg-logo="" group-title="TR ÇOCUK",TRT COCUK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİNİKA GO COCUK" tvg-logo="" group-title="TR ÇOCUK",MİNİKA GO COCUK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diyanet Cocuk" tvg-logo="" group-title="TR ÇOCUK",Diyanet Cocuk
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="TR ÇOCUK",Boomerang HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK TR" tvg-logo="" group-title="TR ÇOCUK",CARTOON NETWORK TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR TR" tvg-logo="" group-title="TR ÇOCUK",Disney JR TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MINGO" tvg-logo="" group-title="TR ÇOCUK",MINGO
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon TR" tvg-logo="" group-title="TR ÇOCUK",Nickelodeon TR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COCUK SMART" tvg-logo="" group-title="TR ÇOCUK",COCUK SMART
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Niloya TV" tvg-logo="" group-title="TR ÇOCUK",Niloya TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sirinler TV HD" tvg-logo="" group-title="TR ÇOCUK",Sirinler TV HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOBA TV" tvg-logo="" group-title="TR ÇOCUK",BOOBA TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masa Ile Koca Ayi" tvg-logo="" group-title="TR ÇOCUK",Masa Ile Koca Ayi
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rafadan Tayfa" tvg-logo="" group-title="TR ÇOCUK",Rafadan Tayfa
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MaxBox Cocuk 1 HD" tvg-logo="" group-title="TR ÇOCUK",MaxBox Cocuk 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pepee 1 HD" tvg-logo="" group-title="TR ÇOCUK",Pepee 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Limon Ile Zeytin" tvg-logo="" group-title="TR ÇOCUK",Limon Ile Zeytin
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sevimli Dostlar" tvg-logo="" group-title="TR ÇOCUK",Sevimli Dostlar
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Masal Dinle" tvg-logo="" group-title="TR ÇOCUK",Masal Dinle
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ari Maya" tvg-logo="" group-title="TR ÇOCUK",Ari Maya
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO" tvg-logo="" group-title="TR ÇOCUK",SCOOBY DOO
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDSAX MASHA İLE KOCA AYI" tvg-logo="" group-title="TR ÇOCUK",KIDSAX MASHA İLE KOCA AYI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doru TV" tvg-logo="" group-title="TR ÇOCUK",Doru TV
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL 2 HD" tvg-logo="" group-title="TR ÇOCUK",MARVEL 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL 1 HD" tvg-logo="" group-title="TR ÇOCUK",MARVEL 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL 3 HD" tvg-logo="" group-title="TR ÇOCUK",MARVEL 3 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 1 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 3 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 3 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 4 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 4 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 5 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 5 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 6 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 6 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE OFFICE 7 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",CINE OFFICE 7 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 4" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 4
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 5" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 5
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 6" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 6
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 7" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 7
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO VIZYON 8" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO VIZYON 8
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO WESTERN" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO WESTERN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENO TURK" tvg-logo="" group-title="TURKISH LIVE SINEMA",ENO TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX TURK HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX TURK HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX GOLD HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX GOLD HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX PLUS HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX PLUS HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX VİZYON 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX VİZYON 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX VİZYON 3 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX VİZYON 3 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX VİZYON 4 ʜᴅ" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX VİZYON 4 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX WESTERN HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX WESTERN HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX STAR WARS HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX STAR WARS HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Türk" tvg-logo="" group-title="TURKISH LIVE SINEMA",Max Türk
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Bollywood" tvg-logo="" group-title="TURKISH LIVE SINEMA",Max Bollywood
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Vizyon 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Max Vizyon 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max Orjinal" tvg-logo="" group-title="TURKISH LIVE SINEMA",Max Orjinal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU Marvels" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU Marvels
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU-Yerli" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU-Yerli
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU Standup Evreni" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU Standup Evreni
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU Romantik" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU Romantik
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU Macera" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU Macera
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU Aile" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU Aile
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Yeşilçam 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Yeşilçam 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | İlyas Salman 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | İlyas Salman 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Şener Şen 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Şener Şen 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Cüneyt Arkın 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Cüneyt Arkın 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Türkan Şoray 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Türkan Şoray 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Kemal Sunal 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Kemal Sunal 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Kemal Sunal 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Kemal Sunal 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Kemal Sunal 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Kemal Sunal 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playbox | Orhan Gencebay 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Playbox | Orhan Gencebay 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST DRAM" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST DRAM
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST SAVAS" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST SAVAS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST IMBD" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST IMBD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST AKSIYON" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST AKSIYON
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST LOCA 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST LOCA 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST SALON 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST SALON 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST SALON 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST SALON 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALBOX ACTiON" tvg-logo="" group-title="TURKISH LIVE SINEMA",GLOBALBOX ACTiON
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBALBOX YERLi" tvg-logo="" group-title="TURKISH LIVE SINEMA",GLOBALBOX YERLi
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalBox Vizyon" tvg-logo="" group-title="TURKISH LIVE SINEMA",GlobalBox Vizyon
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global Box Yeşilçam" tvg-logo="" group-title="TURKISH LIVE SINEMA",Global Box Yeşilçam
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalBox Dram" tvg-logo="" group-title="TURKISH LIVE SINEMA",GlobalBox Dram
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalBox Comedy" tvg-logo="" group-title="TURKISH LIVE SINEMA",GlobalBox Comedy
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalBox Fantastic" tvg-logo="" group-title="TURKISH LIVE SINEMA",GlobalBox Fantastic
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GlobalBox Korku" tvg-logo="" group-title="TURKISH LIVE SINEMA",GlobalBox Korku
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADISI PUSU 1 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",KURTLAR VADISI PUSU 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURTLAR VADISI PUSU 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",KURTLAR VADISI PUSU 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILM MAX KEMAL SUNAL" tvg-logo="" group-title="TURKISH LIVE SINEMA",FILM MAX KEMAL SUNAL
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX AILE" tvg-logo="" group-title="TURKISH LIVE SINEMA",FILMAX AILE
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Disney" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Disney
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX Türk HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",FILMAX Türk HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Gold HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Gold HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Kemal Sunal" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Kemal Sunal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dinamik Salon 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",Dinamik Salon 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dinamik Salon 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",Dinamik Salon 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dinamik Salon 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",Dinamik Salon 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 1 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",KEMAL SUNAL 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",KEMAL SUNAL 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU Kemal Sunal 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",BLU Kemal Sunal 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU Kemal Sunal 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",BLU Kemal Sunal 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAX AKSİYON 2 ʜᴅ" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAX AKSİYON 2 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST KOMEDI" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST KOMEDI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST SALON 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST SALON 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SmartBox Kemal Sunal" tvg-logo="" group-title="TURKISH LIVE SINEMA",SmartBox Kemal Sunal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KingBox Kemal Sunal" tvg-logo="" group-title="TURKISH LIVE SINEMA",KingBox Kemal Sunal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTürk Kemal Sunal" tvg-logo="" group-title="TURKISH LIVE SINEMA",ProTürk Kemal Sunal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST HABABAM SINIFI" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST HABABAM SINIFI
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RenaBox Kemal Sunal" tvg-logo="" group-title="TURKISH LIVE SINEMA",RenaBox Kemal Sunal
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTürk Netflix" tvg-logo="" group-title="TURKISH LIVE SINEMA",ProTürk Netflix
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM NETFLIX 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM NETFLIX 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Imdb Top" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Imdb Top
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Romantik" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Romantik
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmax Komedi" tvg-logo="" group-title="TURKISH LIVE SINEMA",Filmax Komedi
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM LOCA 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM LOCA 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM LOCA 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM LOCA 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM LOCA 3" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM LOCA 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTürk Loca 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",ProTürk Loca 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM SALON 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM SALON 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM SALON 2" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM SALON 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU Comedy Turk" tvg-logo="" group-title="TURKISH LIVE SINEMA",BLU Comedy Turk
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox SINEMA Türk 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox SINEMA Türk 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST TURK" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST TURK
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX YESILCAM" tvg-logo="" group-title="TURKISH LIVE SINEMA",REDBOX YESILCAM
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST YESILCAM" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST YESILCAM
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAXBOX YESILCAM 1 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAXBOX YESILCAM 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAXBOX YESILCAM 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",MAXBOX YESILCAM 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox TOLGSHOW" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox TOLGSHOW
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox CEM YILMAZ" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox CEM YILMAZ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST LOCA 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",BEST LOCA 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM YESILCAM 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM YESILCAM 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM YESILACAM 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM YESILACAM 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM YESILCAM 3 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM YESILCAM 3 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM NETFLIX 2 HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM NETFLIX 2 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BluBox Yesilcam Dream" tvg-logo="" group-title="TURKISH LIVE SINEMA",BluBox Yesilcam Dream
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nostaji Yesilcam Dream" tvg-logo="" group-title="TURKISH LIVE SINEMA",Nostaji Yesilcam Dream
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU KEMAL SUNAL TV DREAM" tvg-logo="" group-title="TURKISH LIVE SINEMA",BLU KEMAL SUNAL TV DREAM
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM YERLI HD" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM YERLI HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM YERLI 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM YERLI 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smart BLU OSCAR" tvg-logo="" group-title="TURKISH LIVE SINEMA",Smart BLU OSCAR
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamBox Comedy" tvg-logo="" group-title="TURKISH LIVE SINEMA",DreamBox Comedy
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamBox Dram" tvg-logo="" group-title="TURKISH LIVE SINEMA",DreamBox Dram
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KingBox Action" tvg-logo="" group-title="TURKISH LIVE SINEMA",KingBox Action
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KingBox COMEDY" tvg-logo="" group-title="TURKISH LIVE SINEMA",KingBox COMEDY
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KingBox Macera" tvg-logo="" group-title="TURKISH LIVE SINEMA",KingBox Macera
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE BOX KEMAL SUNAL" tvg-logo="" group-title="TURKISH LIVE SINEMA",BLUE BOX KEMAL SUNAL
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamBox SAVAS" tvg-logo="" group-title="TURKISH LIVE SINEMA",DreamBox SAVAS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KingBox Fantastic" tvg-logo="" group-title="TURKISH LIVE SINEMA",KingBox Fantastic
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamBox YERLi" tvg-logo="" group-title="TURKISH LIVE SINEMA",DreamBox YERLi
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DreamBox KORKU" tvg-logo="" group-title="TURKISH LIVE SINEMA",DreamBox KORKU
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTürk Uzakdoğu" tvg-logo="" group-title="TURKISH LIVE SINEMA",ProTürk Uzakdoğu
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BluTV Play 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",BluTV Play 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Korku  ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Korku  ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTürk Yeşilçam" tvg-logo="" group-title="TURKISH LIVE SINEMA",ProTürk Yeşilçam
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox KOMEDI 1" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox KOMEDI 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox Türk BOXSET" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox Türk BOXSET
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox BOXSET" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox BOXSET
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox GOLD" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox GOLD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox 007 & JAMES BOND" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox 007 & JAMES BOND
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBox STAR WARS" tvg-logo="" group-title="TURKISH LIVE SINEMA",RedBox STAR WARS
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RealBox ViZYON" tvg-logo="" group-title="TURKISH LIVE SINEMA",RealBox ViZYON
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RealBox COMEDY" tvg-logo="" group-title="TURKISH LIVE SINEMA",RealBox COMEDY
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dream Bilimkurgu & Fantastik" tvg-logo="" group-title="TURKISH LIVE SINEMA",Dream Bilimkurgu & Fantastik
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM BOX-SET" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM BOX-SET
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM WESTERN" tvg-logo="" group-title="TURKISH LIVE SINEMA",DREAM WESTERN
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Biraz Gülelim :)" tvg-logo="" group-title="TURKISH LIVE SINEMA",Biraz Gülelim :)
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/1084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN KONUŞANLAR 1 ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN KONUŞANLAR 1 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN KONUŞANLAR 2 ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN KONUŞANLAR 2 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN KONUŞANLAR 3 ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN KONUŞANLAR 3 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN GİBİ  ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN GİBİ  ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN O SES TÜRKİYE RAP ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN O SES TÜRKİYE RAP ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN  LEYLA ile MECNUN ʜᴅ" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGZlN2QzYTQtNmZkMy00YjdiLWIwOGUtMzlhZTJlMmIyNmJhXkEyXkFqcGdeQXVyOTQ2MjQ3MTI@._V1_.jpg" group-title="EXXEN SINEMA",EXXEN  LEYLA ile MECNUN ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN BELGESEL ʜᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/250px-Exxen.png" group-title="EXXEN SINEMA",EXXEN BELGESEL ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TV 1 ʜᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Exxen.png/250px-Exxen.png" group-title="EXXEN SINEMA",EXXEN TV 1 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN TOLGSHOW ʜᴅ" tvg-logo="" group-title="EXXEN SINEMA",EXXEN TOLGSHOW ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX 1" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX 2" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX 3" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX 4" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX 4
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX 5" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX 5
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Animasyon ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Animasyon ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Belgesel ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Belgesel ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Aksiyon ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Aksiyon ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Macera ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Macera ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Suç ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Suç ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Fantastik ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Fantastik ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Komedi ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Komedi ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Korku ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Korku ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Dram ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Dram ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Gerilim ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Gerilim ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Gizem ʜᴅ" tvg-logo="" group-title="NETFLIX TV TURKCE",NETFLIX Gizem ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MaxBox Netflix 1 HD" tvg-logo="" group-title="NETFLIX TV TURKCE",MaxBox Netflix 1 HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blu Kurani Kerim Hatmi Serif" tvg-logo="" group-title="DINI TURK",Blu Kurani Kerim Hatmi Serif
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURAN MEALİ TAMAMI HD" tvg-logo="" group-title="DINI TURK",KURAN MEALİ TAMAMI HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Medina live" tvg-logo="" group-title="DINI TURK",Medina live
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blu Dini Filmler FHD" tvg-logo="" group-title="DINI TURK",Blu Dini Filmler FHD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Yusuf [HD]" tvg-logo="" group-title="DINI TURK",Hz. Yusuf [HD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Meryem [HD]" tvg-logo="" group-title="DINI TURK",Hz. Meryem [HD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nihat Hatipoglu HD" tvg-logo="" group-title="DINI TURK",Nihat Hatipoglu HD
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semerkand TV [HD]" tvg-logo="" group-title="DINI TURK",Semerkand TV [HD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hasan Ve Huseyin [HD]" tvg-logo="" group-title="DINI TURK",Hasan Ve Huseyin [HD]
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSEIN TV 1" tvg-logo="" group-title="DINI TURK",IMAM HUSSEIN TV 1
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSEIN TV 2" tvg-logo="" group-title="DINI TURK",IMAM HUSSEIN TV 2
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSEIN TV 3" tvg-logo="" group-title="DINI TURK",IMAM HUSSEIN TV 3
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSEIN TV 4" tvg-logo="" group-title="DINI TURK",IMAM HUSSEIN TV 4
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Bilimkurgu ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Bilimkurgu ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Aksiyon ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Aksiyon ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Fantastik ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Fantastik ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Suç ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Suç ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Gizem ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Gizem ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Macera ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Macera ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Dram ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Dram ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Gerilim ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Gerilim ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Komedi ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Komedi ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Romantik ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Romantik ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Animasyon ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Animasyon ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Yerli 1 ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Yerli 1 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAXIMUM Yerli 2 ʜᴅ" tvg-logo="" group-title="TURKIYE CINEMAXIMUM LIVE",CINEMAXIMUM Yerli 2 ʜᴅ
+http://dreamstarzz.com:8080/otttest2-123456/otttest-2123456/951.m3u8
